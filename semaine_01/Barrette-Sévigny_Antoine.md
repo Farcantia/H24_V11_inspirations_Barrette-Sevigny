@@ -1,3 +1,3 @@
 # Antoine Barrette Sévigny
 
-![Image](thumbnail_image1.jpg)
+![Image](photo_moi.jpg)
