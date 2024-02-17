@@ -13,12 +13,12 @@
 | Année de réalisation: 2020     |   N/A        | 
 | Description de l'oeuvre: Cet installation immersive combine son, vidéo et lumière à partir de vidéo VHS, 16mm et Hi-8 de plusieures époques, afin de donner un rendu plongeant le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases distinctes. | Cartel + diverses vues          | 
 | Type d'installation :immersive| Vue *parlante*             | 
-| Mise en espace   | Vue d'ensemble de la pièce + Faire un croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension)        | 
-| Composantes et techniques     | Chacune des parties composantes de l'oeuvre (ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)| 
-| Éléments nécessaires à la mise en exposition   | Chacun des éléments que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, éclairage, herses...)            | 
-| Expérience vécue     | Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter l'interactivité avec celle-ci        | 
-| :heart: Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications   | Éléments pertinents       | 
-| :thinking: Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications     | Éléments pertinents      | 
+| 7 écrans disposés en zig-zag font face à un banc, ainsi qu'une rangée de banc installée dans le fond de la pièce. | Vue d'ensemble de la pièce + Faire un croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension)        | 
+| Composantes et techniques: toiles blanches, des projecteurs, des haut-parleurs, des lumières, console dans les bancs.    | Chacune des parties composantes de l'oeuvre (ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)| 
+| Éléments nécessaires à la mise en exposition: Il est dans la nécessité que des rails soient installés, afin que les différentes composantes techniques de l'oeuvre soient mises en place.    | Chacun des éléments que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, éclairage, herses...)            | 
+| Expérience vécue: Une expérience profonde et émouvante que j'ai ressenti. J'ai ressenti une vraie connexion avec le moi intérieur et un profond mélange d'incompréhension et de sensation qui traversait mon corps durant les différentes phases de la présentation. Je me sentais libre et investi pleinement dans l'art qui m'était présenté.    | Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter l'interactivité avec celle-ci        | 
+| :heart: Ce qui vous a plu, vous a donné des idées: L'immersion totale dans laquelle l'oeuvre m'as plongé. Cela m'a inspiré vers de futurs projets audios émouvants et des vidéos pleines d'énergie.   | Éléments pertinents       | 
+| :thinking: Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications: Je ne souhaite pas invité des gens à consommer toutes sortes de stupéfiants, à des fins de création artistique.    | Éléments pertinents      | 
 
 ## MÉTHODE
 - [ ] Compiler les fichiers et notes de la visite 
