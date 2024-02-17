@@ -11,8 +11,8 @@
 | titre de l'oeuvre: phase shifting index  | Vue d'ensemble de l'oeuvre ou du dispositif  | 
 | Nom de l'artiste: Jeremy Shaw    | Cartel         | 
 | Année de réalisation: 2020     |   N/A        | 
-| Description de l'oeuvre   | Cartel + diverses vues          | 
-| Type d'installation (contemplative, immersive, interactive) | Vue *parlante*             | 
+| Description de l'oeuvre: Cet installation immersive combine son, vidéo et lumière à partir de vidéo VHS, 16mm et Hi-8 de plusieures époques, afin de donner un rendu plongeant le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases distinctes. | Cartel + diverses vues          | 
+| Type d'installation :immersive| Vue *parlante*             | 
 | Mise en espace   | Vue d'ensemble de la pièce + Faire un croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension)        | 
 | Composantes et techniques     | Chacune des parties composantes de l'oeuvre (ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)| 
 | Éléments nécessaires à la mise en exposition   | Chacun des éléments que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, éclairage, herses...)            | 
