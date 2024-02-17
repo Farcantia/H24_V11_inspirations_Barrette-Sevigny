@@ -4,13 +4,13 @@
       
 |:pencil2: À noter  | :camera: À photographier | 
 | ---     | ---             | 
-| Nom de l'exposition ou de l'événement|Affiche de l'exposition|
-| Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
-| Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    | N/A | 
-| Date de votre visite    | N/A           | 
-| Titre de l'oeuvre  | Vue d'ensemble de l'oeuvre ou du dispositif  | 
-| Nom de l'artiste    | Cartel         | 
-| Année de réalisation     |   N/A        | 
+| Jeremy Shaw: phase shifting index  |Affiche de l'exposition|
+| Lieu de l'exposition: Fonderie Darling  | Vous devant l'entrée de l'édifice| 
+| Type d'exposition: itinérante   | N/A | 
+| Date de visite: 2 Février 2024 | N/A           | 
+| titre de l'oeuvre: phase shifting index  | Vue d'ensemble de l'oeuvre ou du dispositif  | 
+| Nom de l'artiste: Jeremy Shaw    | Cartel         | 
+| Année de réalisation: 2020     |   N/A        | 
 | Description de l'oeuvre   | Cartel + diverses vues          | 
 | Type d'installation (contemplative, immersive, interactive) | Vue *parlante*             | 
 | Mise en espace   | Vue d'ensemble de la pièce + Faire un croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension)        | 
