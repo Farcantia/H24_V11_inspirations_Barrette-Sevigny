@@ -11,7 +11,7 @@ Façade de la fonderie darling
 
 ![photo](media/jeremy_shaw_exposition.JPG)
 
-**Source:** <https://macm.org/en/exhibitions/jeremy-shaw/>
+> **Source:** <https://macm.org/en/exhibitions/jeremy-shaw/>
 
 Cette installation immersive combine son, vidéo et lumière à partir de vidéo VHS, 16mm et Hi-8 de plusieures époques, afin de donner un rendu plongeant le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases distinctes.
 
@@ -31,7 +31,7 @@ Jeremy Shaw, née en 1977, est un artiste de renommé mondial ayant fait une mul
 
 **Lieux d'expositions individuelles:** Centre Pompidou à Paris, au MoMA PS1 à New York, au Schinkel Pavillon à Berlin, et au MOCA à Toronto.
 
-**Source:** <https://macm.org/expositions/jeremy-shaw/>
+> **Source:** <https://macm.org/expositions/jeremy-shaw/>
 
 ## LORS DE LA VISITE
 
