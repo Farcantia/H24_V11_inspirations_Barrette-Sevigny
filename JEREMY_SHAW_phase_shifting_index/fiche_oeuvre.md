@@ -23,6 +23,8 @@ Cette installation immersive combine son, vidéo et lumière à partir de vidéo
 
 **Type d'installation:** immersive
 
+**Disposition de l'oeuvre:** 7 écrans disposés en zig-zag font face à un banc, ainsi qu'une rangée de banc installée dans le fond de la pièce.
+
 # DESCRIPTION DE L'ARTISTE
 
 Jeremy Shaw, née en 1977, est un artiste de renommé mondial ayant fait une multitude d'expositions au cours de sa carrière. Il s'inspire de plusieurs domaines artistiques pour réaliser ses oeuvres tels que: des vidéoclips, cinéma-vérité, de l’art conceptuel, etc...
