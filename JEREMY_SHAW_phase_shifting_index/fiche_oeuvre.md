@@ -15,17 +15,19 @@ Façade de la fonderie darling
 
 Cette installation immersive combine son, vidéo et lumière à partir de vidéo VHS, 16mm et Hi-8 de plusieures époques, afin de donner un rendu plongeant le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases distinctes.
 
-Année de réalisation: 2020 
+**Année de réalisation:** 2020 
 
-Type d'exposition: itinérante
+**Type d'exposition:** itinérante
 
-Réalisé par: Jeremy Shaw
+**Réalisé par:** Jeremy Shaw
 
-Type d'installation: immersive
+**Type d'installation:** immersive
 
 # DESCRIPTION DE L'ARTISTE
 
-Jeremy Shaw née en 1977 est un artiste
+Jeremy Shaw, née en 1977, est un artiste de renommé mondial ayant fait une multitude d'expositions au cours de sa carrière. Il s'inspire de plusieurs domaines artistiques pour réaliser ses oeuvres tels que: des vidéoclips, cinéma-vérité, de l’art conceptuel, etc...
+
+**Lieux d'expositions individuelles:** Centre Pompidou à Paris, au MoMA PS1 à New York, au Schinkel Pavillon à Berlin, et au MOCA à Toronto.
 
 ## LORS DE LA VISITE
 
