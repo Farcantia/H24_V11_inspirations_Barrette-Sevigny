@@ -1,7 +1,7 @@
 MA VISITE À LA FONDERIE DARLING 
 
 
-![photo](media/jeremy_shaw_entrée.JPG)
+![photo](media/jeremy_shaw_facade.JPG)
 
 Façade de la fonderie darling
 
