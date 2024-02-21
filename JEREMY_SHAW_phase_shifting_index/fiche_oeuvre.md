@@ -4,8 +4,7 @@ MA VISITE À LA FONDERIE DARLING
 ![photo](media/jeremy_shaw_facade.JPG)
 
 Façade de la fonderie darling
-
-
+745 Rue Ottawa, Montréal, QC H3C 1R8
 
 ## LORS DE LA VISITE
 
