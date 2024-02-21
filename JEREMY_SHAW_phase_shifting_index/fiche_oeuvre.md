@@ -17,6 +17,8 @@ Type d'exposition: itinérante
 
 Réalisé par: Jeremy Shaw
 
+Type d'installation: immersive
+
 ## LORS DE LA VISITE
 
       
