@@ -33,7 +33,7 @@ Jeremy Shaw, née en 1977, est un artiste de renommé mondial ayant fait une mul
 
 > **Source:** <https://macm.org/expositions/jeremy-shaw/>
 
-**COMPOSANTS ET TECHNIQUES**
+# COMPOSANTS ET TECHNIQUES
 
 toiles blanches pour la diffusion, des rails, des projecteurs, des haut-parleurs répartis également dans toute la pièce, des lumières, console dans les bancs pour maximiser le rendu visuel, des cables pour maintenir le matériel en place. 
 
@@ -41,7 +41,7 @@ toiles blanches pour la diffusion, des rails, des projecteurs, des haut-parleurs
 
 Tout ces dispositifs ont pu être installés, grâce au support des rails se trouvant dans le plafond de la salle.
 
-**EXPÉRIENCE VÉCUE**
+# EXPÉRIENCE VÉCUE
 
 Une expérience profonde et émouvante que j'ai ressenti. J'ai ressenti une vraie connexion avec le moi intérieur et un profond mélange d'incompréhension et de sensation qui traversait mon corps durant les différentes phases de la présentation. Je me sentais libre et investi pleinement dans l'art qui m'était présenté.
 
