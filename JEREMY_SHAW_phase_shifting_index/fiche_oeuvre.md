@@ -13,7 +13,7 @@ Façade de la fonderie darling
 
 **Source:** <https://macm.org/en/exhibitions/jeremy-shaw/>
 
-Cet installation immersive combine son, vidéo et lumière à partir de vidéo VHS, 16mm et Hi-8 de plusieures époques, afin de donner un rendu plongeant le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases distinctes.
+Cette installation immersive combine son, vidéo et lumière à partir de vidéo VHS, 16mm et Hi-8 de plusieures époques, afin de donner un rendu plongeant le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases distinctes.
 
 Année de réalisation: 2020 
 
@@ -22,6 +22,8 @@ Type d'exposition: itinérante
 Réalisé par: Jeremy Shaw
 
 Type d'installation: immersive
+
+# DESCRIPTION DE L'ARTISTE
 
 ## LORS DE LA VISITE
 
