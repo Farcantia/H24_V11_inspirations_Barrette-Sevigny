@@ -1,4 +1,4 @@
-MA VISITE À LA FONDERIE DARLING POUR L'EXPOSITION *PHASE SHIFTING INDEX* 
+MA VISITE À LA FONDERIE DARLING POUR L'EXPOSITION *PHASE SHIFTING INDEX* PAR JEREMY SHAW
 
 
 ![photo](media/jeremy_shaw_facade.JPG)
@@ -6,6 +6,16 @@ MA VISITE À LA FONDERIE DARLING POUR L'EXPOSITION *PHASE SHIFTING INDEX*
 Façade de la fonderie darling
 
 745 Rue Ottawa, Montréal, QC H3C 1R8
+
+# DESCRIPTION DE L'OEUVRE
+
+Cet installation immersive combine son, vidéo et lumière à partir de vidéo VHS, 16mm et Hi-8 de plusieures époques, afin de donner un rendu plongeant le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases distinctes.
+
+Année de réalisation: 2020 
+
+Type d'exposition: itinérante
+
+Réalisé par: Jeremy Shaw
 
 ## LORS DE LA VISITE
 
