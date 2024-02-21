@@ -9,6 +9,8 @@ Façade de la fonderie darling
 
 # DESCRIPTION DE L'OEUVRE
 
+![photo](media/jeremy_shaw_exposition.JPG)
+
 Cet installation immersive combine son, vidéo et lumière à partir de vidéo VHS, 16mm et Hi-8 de plusieures époques, afin de donner un rendu plongeant le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases distinctes.
 
 Année de réalisation: 2020 
