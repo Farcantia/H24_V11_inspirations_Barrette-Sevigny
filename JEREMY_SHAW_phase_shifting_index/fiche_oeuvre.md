@@ -47,6 +47,14 @@ Tout ces dispositifs ont pu être installés, grâce au support des rails se tro
 
 Une expérience profonde et émouvante que j'ai ressenti. J'ai ressenti une vraie connexion avec le moi intérieur et un profond mélange d'incompréhension et de sensation qui traversait mon corps durant les différentes phases de la présentation. Je me sentais libre et investi pleinement dans l'art qui m'était présenté.
 
+# CE QUI M'AS PLU
+
+L'immersion totale dans laquelle l'oeuvre m'as plongé. Cela m'a inspiré vers de futurs projets audios émouvants et des vidéos remplies d'énergie.
+
+# CE QUI M'AS MOINS INSPIRÉ
+
+Je ne souhaite pas inviter des gens à consommer toutes sortes de stupéfiants, à des fins de création artistique à cause de valeurs personnelles.
+
 ## LORS DE LA VISITE
 
       
