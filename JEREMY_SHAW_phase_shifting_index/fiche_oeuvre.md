@@ -11,6 +11,8 @@ Façade de la fonderie darling
 
 ![photo](media/jeremy_shaw_exposition.JPG)
 
+**Source:** https://www.google.com/search?sca_esv=fa8fe62a24a75465&sca_upv=1&sxsrf=ACQVn08WYnF-cqTbgCavzwhT766cffX7tA:1708556089068&q=phase+shifting+index&tbm=isch&source=lnms&sa=X&ved=2ahUKEwio2ZG2w72EAxXWGFkFHYlpAA8Q0pQJegQIDxAB&biw=1470&bih=833&dpr=2#imgrc=kEvlsLMIadmuKM
+
 Cet installation immersive combine son, vidéo et lumière à partir de vidéo VHS, 16mm et Hi-8 de plusieures époques, afin de donner un rendu plongeant le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases distinctes.
 
 Année de réalisation: 2020 
