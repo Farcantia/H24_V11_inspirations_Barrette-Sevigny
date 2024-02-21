@@ -4,7 +4,7 @@
       
 |:pencil2: À noter  | :camera: À photographier | 
 | ---     | ---             | 
-| Jeremy Shaw: phase shifting index  |Affiche de l'exposition|
+| Jeremy Shaw: phase shifting index  |![photo](e|
 | Lieu de l'exposition: Fonderie Darling  | Vous devant l'entrée de l'édifice| 
 | Type d'exposition: itinérante   | N/A | 
 | Date de visite: 2 Février 2024 | N/A           | 
