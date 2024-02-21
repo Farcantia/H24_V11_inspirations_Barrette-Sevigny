@@ -25,6 +25,8 @@ Type d'installation: immersive
 
 # DESCRIPTION DE L'ARTISTE
 
+Jeremy Shaw née en 1977 est un artiste
+
 ## LORS DE LA VISITE
 
       
