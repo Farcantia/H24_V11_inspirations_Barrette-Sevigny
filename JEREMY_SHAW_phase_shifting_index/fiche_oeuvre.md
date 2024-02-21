@@ -1,7 +1,9 @@
-# VISITE ET EXPÉRIENCE DE L'EXPOSITION JEREMY SHAW,*PHASE SHIFTING INDEX*, ORGANISÉE PAR LE MUSÉE D'ART CONTEMPORAIN (MAC) À LA FONDERIE DARLING
+MA VISITE À LA FONDERIE DARLING 
 
 
-![photo](media/jeremy_shaw_facade.JPG)
+![photo](media/jeremy_shaw_entrée.JPG)
+
+Façade de la fonderie darling
 
 
 
