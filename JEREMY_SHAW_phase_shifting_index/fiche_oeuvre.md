@@ -2,7 +2,7 @@
 
 ## LORS DE LA VISITE
 
-![photo](jeremy_shaw_présentation_oeuvre.JPG)
+![image](jeremy_shaw_présentation_oeuvre.JPG)
       
 |:pencil2: À noter  | :camera: À photographier | 
 | ---     | ---             | 
