@@ -1,11 +1,12 @@
 # VISITE ET EXPÉRIENCE DE L'EXPOSITION JEREMY SHAW,*PHASE SHIFTING INDEX*, ORGANISÉE PAR LE MUSÉE D'ART CONTEMPORAIN (MAC) À LA FONDERIE DARLING
 
 ## LORS DE LA VISITE
+
+![photo](jeremy_shaw_présentation_oeuvre.JPG)
       
 |:pencil2: À noter  | :camera: À photographier | 
 | ---     | ---             | 
-| Jeremy Shaw: phase shifting index  |![photo](jeremy_shaw_présentation_oeuvre.JPG)|
-
+| Jeremy Shaw: phase shifting index  ||
 | Lieu de l'exposition: Fonderie Darling  | Vous devant l'entrée de l'édifice| 
 | Type d'exposition: itinérante   | N/A | 
 | Date de visite: 2 Février 2024 | N/A           | 
