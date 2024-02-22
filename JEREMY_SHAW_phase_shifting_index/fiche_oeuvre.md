@@ -3,7 +3,7 @@
 
 ![photo](media/jeremy_shaw_facade.JPG)
 
-Façade de la fonderie darling
+Façade de la Fonderie Darling
 
 > photo prise par Antoine Barrette Sévigny
 
