@@ -31,6 +31,10 @@ Jeremy Shaw, née en 1977, est un artiste de renommé mondial ayant fait une mul
 
 **Lieux d'expositions individuelles:** Centre Pompidou à Paris, au MoMA PS1 à New York, au Schinkel Pavillon à Berlin, et au MOCA à Toronto.
 
+![photo](media/jeremy_shaw_livre_artiste.JPG)
+
+> photo prise par Antoine Barrette Sévigny
+
 > **Source:** <https://macm.org/expositions/jeremy-shaw/>
 
 # COMPOSANTS ET TECHNIQUES
