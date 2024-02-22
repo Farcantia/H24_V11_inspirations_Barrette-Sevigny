@@ -3,7 +3,7 @@
 
 ![photo](media/jeremy_shaw_facade.JPG)
 
-Façade de la fonderie darling, 745 Rue Ottawa, Montréal, QC H3C 1R8
+Façade de la fonderie darling
 
 > photo prise par Antoine Barrette Sévigny
 
@@ -43,9 +43,9 @@ Tout ces dispositifs ont pu être installés, grâce au support des rails se tro
 
 ![photo](media/jeremy_shaw_lumières.JPG)
 
-> photo prise par Antoine Barrette Sévigny
+Rails à des fins d'installations techniques
 
-Rails à des fins d'installations techniques.
+> photo prise par Antoine Barrette Sévigny
 
 # EXPÉRIENCE VÉCUE
 
