@@ -3,11 +3,9 @@
 
 ![photo](media/jeremy_shaw_facade.JPG)
 
-Façade de la fonderie darling.
+Façade de la fonderie darling, 745 Rue Ottawa, Montréal, QC H3C 1R8
 
 > photo prise par Antoine Barrette Sévigny
-
-> 745 Rue Ottawa, Montréal, QC H3C 1R8
 
 # DESCRIPTION DE L'OEUVRE
 
