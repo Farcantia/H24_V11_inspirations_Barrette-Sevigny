@@ -43,6 +43,8 @@ Tout ces dispositifs ont pu être installés, grâce au support des rails se tro
 
 ![photo](media/jeremy_shaw_lumières.JPG)
 
+> photo prise par Antoine Barrette Sévigny
+
 # EXPÉRIENCE VÉCUE
 
 Une expérience profonde et émouvante que j'ai ressenti. J'ai ressenti une vraie connexion avec le moi intérieur et un profond mélange d'incompréhension et de sensation qui traversait mon corps durant les différentes phases de la présentation. Je me sentais libre et investi pleinement dans l'art qui m'était présenté.
