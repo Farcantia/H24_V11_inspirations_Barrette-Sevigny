@@ -35,6 +35,8 @@ Jeremy Shaw, née en 1977, est un artiste de renommé mondial ayant fait une mul
 
 ![photo](media/jeremy_shaw_livre_artiste.JPG)
 
+Présentation biographique des oeuvres de l'artiste
+
 > photo prise par Antoine Barrette Sévigny
 
 # COMPOSANTS ET TECHNIQUES
