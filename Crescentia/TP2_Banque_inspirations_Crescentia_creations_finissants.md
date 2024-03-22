@@ -8,7 +8,7 @@ Cette installation est une connexion immersive directe avec l'esprit. On est plo
 ## Effet Papillon
 Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre
 # Résumé
-Cette installation est
+Cette installation nous plonge dans l'évolution de nos actions. Elle crée une réaction en chaîne avec les choix entreprit et nous fais aller nos yeux de la droite vers la gauche par son dynamiste unique. La complexité de l'arbre concu de minis écrans intéractifs donne une impression de désordre et d'émerveillement attrayant et intéressant pour les yeux et l'esprit. On constate une vraie évolution plus en plus que l'on avance dans l'oeuvre grâce aux effets sonores et visuels utilisés. 
 ## Kigo
 Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
 ## Sonalux
