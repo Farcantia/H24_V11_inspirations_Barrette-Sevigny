@@ -32,7 +32,7 @@ Cette installation nous plonge dans l'évolution de nos actions. Elle crée une 
 
 **Résumé:**
 
-Cette installation
+Cette installation intérative sous forme de jeux est unique en son genre. Elle nous plonge dans un univers néon rétro où le but principal est d'éviter des obstacles et de rester le plus longtemps en vie possible. L'installation utilise une kinect pour capter les mouvements de son utilisateur pour par la suite, le projecter sur l'interface en projection à grande échelle.
 
 ## Sonalux
 
@@ -43,7 +43,7 @@ Cette installation
 
 **Résumé:**
 
-Cette installation
+Cette installation nous isole dans un monde ou le son devient le centre de tout. Le son nous guide, comme nous pouvons le guider grâce aux différents boutons intéractifs de l'oeuvre. On doit mettre un casque pour pouvoir sentir cette oeuvre et cela nous isole de tout le reste. Les projections colorées sur les murs varient selon le son voulu par l'occupant qui contribue très bien également au phénomène d'isolation.
 
 ## Canevas Cosmique
 
@@ -54,7 +54,7 @@ Cette installation
 
 **Résumé:**
 
-Cette installation
+Cette installation nous donne le plein contrôle sur le système solaire. Nous pouvons intéragir avec les différents modules pouvant causer une explosion du système. Selon la quantité de matières mise, l'explosion de l'ensemble du système survient et cause un arrêt total.
 
 
 
