@@ -2,7 +2,9 @@
 ## Exploration des projets en création par les étudiant.e.s de 3e année en TIM
 
 # Rhizomatique
-> photo prise par Antoine Barrette Sévigny lors de l'exposition de "Crescentia" au collège Montmorency.
+
+
+> photo prise par Antoine Barrette Sévigny lors de l'exposition de Crescentia au collège Montmorency.
 
 **Projet réalisé par:** Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic
 
@@ -11,7 +13,9 @@
 Cette installation est une connexion immersive directe avec l'esprit. On est plongé dans les profondeurs du cerveau humain grâce à ses systèmes intéractifs facile à utiliser. Nous avons les deux éléments centrales de l'oeuvre: la toile intéractif lors du touché avec notre main, comme si on jouait dans le cerveau de quelqu'un et ses projections à grandes échelles selon l'endroit touché par son occupant. 
 
 # Effet Papillon
-> photo prise par Antoine Barrette Sévigny au collège Montmorency.
+
+
+> photo prise par Antoine Barrette Sévigny lors de l'exposition de Crescentia au collège Montmorency.
 
  **Projet réalisé par:** Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre
 
@@ -20,7 +24,9 @@ Cette installation est une connexion immersive directe avec l'esprit. On est plo
 Cette installation nous plonge dans l'évolution de nos actions. Elle crée une réaction en chaîne avec les choix entreprit et nous fais aller nos yeux de la droite vers la gauche par son dynamiste unique. La complexité de l'arbre, qui est conçu de minis écrans intéractifs, donne une impression de désordre et d'émerveillement attrayant et intéressant pour les yeux et l'esprit. On constate une vraie évolution de plus en plus que l'on avance dans l'oeuvre grâce aux effets sonores et visuels utilisés. 
 
 ## Kigo
-> photo prise par Antoine Barrette Sévigny au collège Montmorency.
+
+
+> photo prise par Antoine Barrette Sévigny lors de l'exposition de Crescentia au collège Montmorency.
 
 **Projet réalisé par:** Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
 
@@ -29,7 +35,9 @@ Cette installation nous plonge dans l'évolution de nos actions. Elle crée une 
 Cette installation
 
 ## Sonalux
-> photo prise par Antoine Barrette Sévigny au collège Montmorency.
+
+
+> photo prise par Antoine Barrette Sévigny lors de l'exposition de Crescentia au collège Montmorency.
 
 **Projet réalisé par:** Antoine Haddadm, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 
@@ -38,7 +46,9 @@ Cette installation
 Cette installation
 
 ## Canevas Cosmique
-> photo prise par Antoine Barrette Sévigny au collège Montmorency.
+
+
+> photo prise par Antoine Barrette Sévigny lors de l'exposition de Crescentia au collège Montmorency.
 
 **Projet réalisé par:** Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau
 
