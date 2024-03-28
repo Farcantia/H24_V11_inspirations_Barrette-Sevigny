@@ -1,9 +1,9 @@
 
-**Exploration des projets en création par les étudiant.e.s de 3e année en TIM** 
+## Exploration des projets en création par les étudiant.e.s de 3e année en TIM** 
 
-## Rhizomatique
+# Rhizomatique
 Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic
- Résumé
+Résumé
 Cette installation est une connexion immersive directe avec l'esprit. On est plongé dans les profondeurs du cerveau humain grâce à ses systèmes intéractifs facile à utiliser. Nous avons les deux éléments centrales de l'oeuvre: la toile intéractif lors du touché avec notre main, comme si on jouait dans le cerveau de quelqu'un et ses projections à grandes échelles selon l'endroit touché par son occupant. 
 ## Effet Papillon
 Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre
