@@ -1,5 +1,5 @@
 
-## Exploration des projets en création par les étudiant.e.s de 3e année en TIM** 
+## Exploration des projets en création par les étudiant.e.s de 3e année en TIM
 
 # Rhizomatique
 Projet réalisé par: Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic
@@ -7,10 +7,14 @@ Projet réalisé par: Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Tes
 **Résumé:**
 
 Cette installation est une connexion immersive directe avec l'esprit. On est plongé dans les profondeurs du cerveau humain grâce à ses systèmes intéractifs facile à utiliser. Nous avons les deux éléments centrales de l'oeuvre: la toile intéractif lors du touché avec notre main, comme si on jouait dans le cerveau de quelqu'un et ses projections à grandes échelles selon l'endroit touché par son occupant. 
-## Effet Papillon
+
+# Effet Papillon
 Projet réalisé par: Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre
-# Résumé
+
+**Résumé:**
+
 Cette installation nous plonge dans l'évolution de nos actions. Elle crée une réaction en chaîne avec les choix entreprit et nous fais aller nos yeux de la droite vers la gauche par son dynamiste unique. La complexité de l'arbre concu de minis écrans intéractifs donne une impression de désordre et d'émerveillement attrayant et intéressant pour les yeux et l'esprit. On constate une vraie évolution plus en plus que l'on avance dans l'oeuvre grâce aux effets sonores et visuels utilisés. 
+
 ## Kigo
 Projet réalisé par: Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
 ## Sonalux
