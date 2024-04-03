@@ -29,6 +29,10 @@ Cette installation est une connexion immersive directe avec l'esprit. On est plo
 
 Cette installation nous plonge dans l'évolution de nos actions. Elle crée une réaction en chaîne avec les choix entreprit et nous fais aller nos yeux de la droite vers la gauche par son dynamiste unique. La complexité de l'arbre, qui est conçu de minis écrans intéractifs, donne une impression de désordre et d'émerveillement attrayant et intéressant pour les yeux et l'esprit. On constate une vraie évolution de plus en plus que l'on avance dans l'oeuvre grâce aux effets sonores et visuels utilisés. 
 
+**Schéma de plantation:** 
+
+<manquant
+
 ## Kigo
 
 ![photo](media/kigo.jpg)
@@ -40,6 +44,10 @@ Cette installation nous plonge dans l'évolution de nos actions. Elle crée une 
 **Résumé:**
 
 Cette installation intérative sous forme de jeux est unique en son genre. Elle nous plonge dans un univers néon rétro où le but principal est d'éviter des obstacles et de rester le plus longtemps en vie possible. L'installation utilise une kinect pour capter les mouvements de son utilisateur pour par la suite, le projecter sur l'interface en projection à grande échelle.
+
+**Schéma de plantation:** 
+
+![photo](media/KIGO_schema.png)
 
 ## Sonalux
 
