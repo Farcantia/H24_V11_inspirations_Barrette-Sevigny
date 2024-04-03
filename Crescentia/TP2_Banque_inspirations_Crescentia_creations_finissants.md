@@ -9,13 +9,13 @@
 
 **Projet réalisé par:** Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic
 
-**Résumé:**
+**Résumé et ressenti:**
 
 Cette installation est une connexion immersive directe avec l'esprit. On est plongé dans les profondeurs du cerveau humain grâce à ses systèmes intéractifs facile à utiliser. Nous avons les deux éléments centrales de l'oeuvre: la toile intéractif lors du touché avec notre main, comme si on jouait dans le cerveau de quelqu'un et ses projections à grandes échelles selon l'endroit touché par son occupant.
 
 **Schéma de plantation:** 
 
-![photo](media/rhizomatique_schema.png)
+![photo](media/rhizomatique_schema.png) 
 
 # Effet Papillon
 
@@ -25,7 +25,7 @@ Cette installation est une connexion immersive directe avec l'esprit. On est plo
 
  **Projet réalisé par:** Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre
 
-**Résumé:**
+**Résumé et ressenti:**
 
 Cette installation nous plonge dans l'évolution de nos actions. Elle crée une réaction en chaîne avec les choix entreprit et nous fais aller nos yeux de la droite vers la gauche par son dynamiste unique. La complexité de l'arbre, qui est conçu de minis écrans intéractifs, donne une impression de désordre et d'émerveillement attrayant et intéressant pour les yeux et l'esprit. On constate une vraie évolution de plus en plus que l'on avance dans l'oeuvre grâce aux effets sonores et visuels utilisés. 
 
@@ -41,7 +41,7 @@ Cette installation nous plonge dans l'évolution de nos actions. Elle crée une 
 
 **Projet réalisé par:** Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
 
-**Résumé:**
+**Résumé et ressenti:**
 
 Cette installation intérative sous forme de jeux est unique en son genre. Elle nous plonge dans un univers néon rétro où le but principal est d'éviter des obstacles et de rester le plus longtemps en vie possible. L'installation utilise une kinect pour capter les mouvements de son utilisateur pour par la suite, le projecter sur l'interface en projection à grande échelle.
 
@@ -57,7 +57,7 @@ Cette installation intérative sous forme de jeux est unique en son genre. Elle 
 
 **Projet réalisé par:** Antoine Haddadm, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 
-**Résumé:**
+**Résumé et ressenti:**
 
 Cette installation nous isole dans un monde ou le son devient le centre de tout. Le son nous guide, comme nous pouvons le guider grâce aux différents boutons intéractifs de l'oeuvre. On doit mettre un casque pour pouvoir sentir cette oeuvre et cela nous isole de tout le reste. Les projections colorées sur les murs varient selon le son voulu par l'occupant qui contribue très bien également au phénomène d'isolation.
 
@@ -73,13 +73,17 @@ Cette installation nous isole dans un monde ou le son devient le centre de tout.
 
 **Projet réalisé par:** Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau
 
-**Résumé:**
+**Résumé et ressenti:**
 
 Cette installation nous donne le plein contrôle sur le système solaire. Nous pouvons intéragir avec les différents modules pouvant causer une explosion du système. Selon la quantité de matières mise, l'explosion de l'ensemble du système survient et cause un arrêt total.
 
 **Schéma de plantation:**
 
 ![photo](media/Canevas-cosmique_schema.png)
+
+**Cours nécessaires à des fins de réalisations:**
+
+
 
 
 
