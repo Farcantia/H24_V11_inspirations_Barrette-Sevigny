@@ -105,11 +105,11 @@ Cette technique est utilisé afin de créer des éléments par ordinateur et aid
 
 **Les 5 sites les plus connus de modélisations 3D:**
 
--Blender
--ZBrush
--Cinema 4D
--3ds Max
--Modo
+- Blender
+- ZBrush
+- Cinema 4D
+- 3ds Max
+- Modo
 
 > source: https://all3dp.com/fr/1/logiciel-3d-gratuit-logiciel-modelisation-3d-cao/
 
