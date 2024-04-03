@@ -51,8 +51,9 @@ Cette installation nous isole dans un monde ou le son devient le centre de tout.
 
 ## Canevas Cosmique
 
+![photo](media/canevas_cosmique.jpg)
 
-> photo prise par Antoine Barrette Sévigny lors de l'exposition de Crescentia au collège Montmorency.
+> photo prise par les créateurs de l'exposition | **source:** https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 
 **Projet réalisé par:** Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau
 
