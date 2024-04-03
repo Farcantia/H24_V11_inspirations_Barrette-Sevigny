@@ -3,7 +3,7 @@
 
 # Rhizomatique
 
-!photo[/media/rhizomatique]
+![photo](/media/rhizomatique.jpg)
 > photo prise par Antoine Barrette Sévigny lors de l'exposition de Crescentia au collège Montmorency.
 
 **Projet réalisé par:** Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic
