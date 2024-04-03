@@ -113,6 +113,7 @@ Cette technique est utilisé afin de créer des éléments par ordinateur et aid
 
 > source: https://all3dp.com/fr/1/logiciel-3d-gratuit-logiciel-modelisation-3d-cao/
 
+
 **Classification par préférence des oeuvres:**
 
 1. **Sonalux** est mon premier choix à cause que les étudiants de cette oeuvre on su vraiment venir me chercher intérieurement avec leur dispositif intéractif percutant. La beauté de cette oeuvre se démarque vraiment des autres car on peut se plonger grâce au casque d'écoute complètement ailleurs.
