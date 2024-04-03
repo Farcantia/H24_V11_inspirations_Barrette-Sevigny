@@ -3,7 +3,7 @@
 
 # Rhizomatique
 
-![photo](/media/rhizomatique.jpg)
+![photo](media/rhizomatique.jpg)
 
 > photo prise par Antoine Barrette Sévigny lors de l'exposition de Crescentia au collège Montmorency.
 
