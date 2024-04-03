@@ -13,7 +13,9 @@
 
 Cette installation est une connexion immersive directe avec l'esprit. On est plongé dans les profondeurs du cerveau humain grâce à ses systèmes intéractifs facile à utiliser. Nous avons les deux éléments centrales de l'oeuvre: la toile intéractif lors du touché avec notre main, comme si on jouait dans le cerveau de quelqu'un et ses projections à grandes échelles selon l'endroit touché par son occupant.
 
-**Schéma de plantation:** ![photo](media/rhizomatique_schema.jpg)
+**Schéma de plantation:** 
+
+![photo](media/rhizomatique_schema.jpg)
 
 # Effet Papillon
 
