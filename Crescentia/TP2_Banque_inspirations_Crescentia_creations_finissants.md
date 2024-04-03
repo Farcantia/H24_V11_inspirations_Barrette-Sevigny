@@ -15,7 +15,7 @@ Cette installation est une connexion immersive directe avec l'esprit. On est plo
 
 # Effet Papillon
 
-![photo](media/effet papillon.jpg)
+![photo](media/effet_papillon.jpg)
 
 > photo prise par Antoine Barrette Sévigny lors de l'exposition de Crescentia au collège Montmorency.
 
