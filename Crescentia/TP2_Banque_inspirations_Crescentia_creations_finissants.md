@@ -31,7 +31,7 @@ Cette installation nous plonge dans l'évolution de nos actions. Elle crée une 
 
 **Schéma de plantation:** 
 
-<manquant
+> manquant
 
 ## Kigo
 
@@ -61,6 +61,10 @@ Cette installation intérative sous forme de jeux est unique en son genre. Elle 
 
 Cette installation nous isole dans un monde ou le son devient le centre de tout. Le son nous guide, comme nous pouvons le guider grâce aux différents boutons intéractifs de l'oeuvre. On doit mettre un casque pour pouvoir sentir cette oeuvre et cela nous isole de tout le reste. Les projections colorées sur les murs varient selon le son voulu par l'occupant qui contribue très bien également au phénomène d'isolation.
 
+**Schéma de plantation:**
+
+![photo](media/Sonalux_schema.png)
+
 ## Canevas Cosmique
 
 ![photo](media/canevas_cosmique.jpg)
@@ -72,6 +76,10 @@ Cette installation nous isole dans un monde ou le son devient le centre de tout.
 **Résumé:**
 
 Cette installation nous donne le plein contrôle sur le système solaire. Nous pouvons intéragir avec les différents modules pouvant causer une explosion du système. Selon la quantité de matières mise, l'explosion de l'ensemble du système survient et cause un arrêt total.
+
+**Schéma de plantation:**
+
+![photo](media/Canevas-cosmique_schema.png)
 
 
 
