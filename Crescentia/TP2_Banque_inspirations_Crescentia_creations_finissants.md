@@ -15,7 +15,7 @@ Cette installation est une connexion immersive directe avec l'esprit. On est plo
 
 **Schéma de plantation:** 
 
-![photo](media/rhizomatique_schema.jpg)
+![photo](media/rhizomatique_schema.png)
 
 # Effet Papillon
 
