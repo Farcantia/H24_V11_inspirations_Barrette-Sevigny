@@ -115,51 +115,12 @@ Cette technique est utilisé afin de créer des éléments par ordinateur et aid
 
 **Classification par préférence des oeuvres:**
 
-1. Sonalux
-2. Kigo
-3. Rhizomatique
-4. Effet Papillon
-5. Canevas Cosmique 
+1. **Sonalux** est mon premier choix à cause que les étudiants de cette oeuvre on su vraiment venir me chercher intérieurement avec leur dispositif intéractif percutant. La beauté de cette oeuvre se démarque vraiment des autres car on peut se plonger grâce au casque d'écoute complètement ailleurs.
 
+2. **Kigo** est mon deuxième choix car cette oeuvre a su se démarquer avec son aspect jeu vidéo. On est investi autant physiquement que mentalement dans ce dispositif.
 
+3. **Rhizomatique** est mon troisième choix car cette oeuvre nous plonge dans le pouvoir de contrôler les souvenirs de l'esprit. Le concept est bien pensé et captivant par la grandeur de sa projection.
 
+4. **Effet Papillon** est mon quatrième choix car cette oeuvre était intéressante à découvrir. J'ai bien apprécié l'enchaînement d'actions de cette oeuvre mais durant lors de ma dernière visite, à quelques jours de l'exposition officielle, le dispositif semblait défaillant.
 
-
-
-
-
-
-**Créer un fichier .md qui nous permettra de découvrir ces projets en création en y indiquant:**
-- le titre de chacun des projets ainsi que ses créateurs et créatrices
-- le lien de chacun avec le thème *Crescentia*
-- l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
-- le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
-
-De plus, vous devrez :
-- identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/))
-- présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
-  
-    *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
-- ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
-- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
-
-**Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fichiers agréables à lire, dans lesquels on repère facilement l'information**
-
-## CRITÈRES D'ÉVALUATION 
-Voir ** dans le dossier *consigne* 
-
-La grille d'évaluation est disponible dans l'équipe TEAMS (dossiers consignes_travaux)
-
-
-LES CRÉATIONS SONT ACTUELLEMENT RÉALISÉES DANS LE CADRE DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*, ENSEIGNÉS PAR GUILLAUME ARSENEAULT ET THOMAS OEULLET FREDERICKS
-
-### MISE EN CONTEXTE
-> Le cours synthèse *Expérience multimédia interactive* vise la création et la présentation d’un projet multimédia interactif réalisé en équipe.
-
-> L’étudiante ou l’étudiant collaborera à l’élaboration d’un projet multimédia interactif, et ce de la conception jusqu’à la présentation du produit. Il aura l’occasion de mettre en pratique toutes les compétences acquises au cours de sa formation technique, notamment en programmation, en conception graphique, vidéo et sonore, de même qu’en gestion et en conception de projet. Ce cours est porteur de l’un des deux volets de l’épreuve synthèse du programme, soit la réalisation d’une expérience interactive.
-
-> L’étudiant devra ainsi contribuer à la réalisation d’une expérience interactive multimédia en équipe et produire un rapport visant à rendre compte de l’ensemble des étapes de la réalisation du produit et de son processus.
-
-### TÂCHES
-> Conceptualisation et réalisation en équipe d’une installation, d’un parcours ou d’une performance multimédia interactive ancrée dans un environnement physique.
-
+5. **Canevas Cosmique** est mon dernier choix car cette oeuvre, à mon avis, était la moins bien poussé de tous. Elle marchait bien mais manquait un peu de mise en bouche lors de la visite. Je comprennais mal le but de cette oeuvre mais je l'ai trouvé bien.
