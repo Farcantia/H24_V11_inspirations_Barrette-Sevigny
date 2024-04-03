@@ -27,6 +27,7 @@ Cette installation nous plonge dans l'évolution de nos actions. Elle crée une 
 
 ## Kigo
 
+![photo](media/kigo.jpg)
 
 > photo prise par Antoine Barrette Sévigny lors de l'exposition de Crescentia au collège Montmorency.
 
