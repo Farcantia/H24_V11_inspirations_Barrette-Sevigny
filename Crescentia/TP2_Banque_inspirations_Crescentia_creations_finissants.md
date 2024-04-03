@@ -39,6 +39,7 @@ Cette installation intérative sous forme de jeux est unique en son genre. Elle 
 
 ## Sonalux
 
+![photo](media/sonalux.jpg)
 
 > photo prise par Antoine Barrette Sévigny lors de l'exposition de Crescentia au collège Montmorency.
 
