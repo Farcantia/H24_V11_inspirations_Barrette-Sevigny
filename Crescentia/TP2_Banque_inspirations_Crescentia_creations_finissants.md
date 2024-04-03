@@ -88,9 +88,9 @@ Cette installation nous donne le plein contrôle sur le système solaire. Nous p
 - Conception d’une expérience multimédia
 - Installation multimédia
 
-  **Pourquoi le sont-t'ils?**
+**Pourquoi le sont-t'ils?**
 
-  Le cours d'**intéractivité ludique** *(donné en 3ième session)* offre à l'étudiant la capacité de pouvoir utiliser de sa pleine créativité afin de réaliser un projet multimédia. Il doit combiner du son et de la vidéo pour créer une oeuvre divertissante et amusante pour son utilisateur en même temps de se familariser avec les logiciels.
+Le cours d'**intéractivité ludique** *(donné en 3ième session)* offre à l'étudiant la capacité de pouvoir utiliser de sa pleine créativité afin de réaliser un projet multimédia. Il doit combiner du son et de la vidéo pour créer une oeuvre divertissante et amusante pour son utilisateur en même temps de se familariser avec les logiciels.
 
 Le cours de **conception d'une expérience multimédia** *(donné en 5ième session)* offre à l'étudiant la pleine capacité de comprendre ce que son projet implique comme engagement que ce soit au niveau des coûts, du matériel ou des gens. La responsabilité et l'organisation de l'étudiant sont les buts recherchés dans le cadre de ce cours afin de le préparer à la mise en action d'une oeuvre intéractive.
 
@@ -100,6 +100,18 @@ Le cours **d'installation multimédia** *(donné en 5ième session)* offre à l'
 **Technique utilisée dans Kigo:**
 
 La modélisation 3D
+
+Cette technique est utilisé afin de créer des éléments par ordinateur et aide au développement de la créativité d'un individu. Elle sera utile dans ce projet afin de créer les différents éléments et le décor de cette oeuvre qui est sous forme de jeu vidéo.
+
+**Les 5 sites les plus connus de modélisations 3D:**
+
+-Blender
+-ZBrush
+-Cinema 4D
+-3ds Max
+-Modo
+
+> source: https://all3dp.com/fr/1/logiciel-3d-gratuit-logiciel-modelisation-3d-cao/
 
 
 
