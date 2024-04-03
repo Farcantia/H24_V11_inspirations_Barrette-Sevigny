@@ -113,6 +113,14 @@ Cette technique est utilisé afin de créer des éléments par ordinateur et aid
 
 > source: https://all3dp.com/fr/1/logiciel-3d-gratuit-logiciel-modelisation-3d-cao/
 
+**Classification par préférence des oeuvres:**
+
+1. Sonalux
+2. Kigo
+3. Rhizomatique
+4. Effet Papillon
+5. Canevas Cosmique 
+
 
 
 
