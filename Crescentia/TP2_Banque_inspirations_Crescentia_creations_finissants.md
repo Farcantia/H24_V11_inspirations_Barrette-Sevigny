@@ -81,7 +81,27 @@ Cette installation nous donne le plein contrôle sur le système solaire. Nous p
 
 ![photo](media/Canevas-cosmique_schema.png)
 
+
 **Cours nécessaires à des fins de réalisations:**
+
+- Intéractivité ludique
+- Conception d’une expérience multimédia
+- Installation multimédia
+
+  **Pourquoi le sont-t'ils?**
+
+  Le cours d'**intéractivité ludique** *(donné en 3ième session)* offre à l'étudiant la capacité de pouvoir utiliser de sa pleine créativité afin de réaliser un projet multimédia. Il doit combiner du son et de la vidéo pour créer une oeuvre divertissante et amusante pour son utilisateur en même temps de se familariser avec les logiciels.
+
+Le cours de **conception d'une expérience multimédia** *(donné en 5ième session)* offre à l'étudiant la pleine capacité de comprendre ce que son projet implique comme engagement que ce soit au niveau des coûts, du matériel ou des gens. La responsabilité et l'organisation de l'étudiant sont les buts recherchés dans le cadre de ce cours afin de le préparer à la mise en action d'une oeuvre intéractive.
+
+Le cours **d'installation multimédia** *(donné en 5ième session)* offre à l'étudiant la capacité de mettre en action ses apprentissages en élaborant sur pied une oeuvre multimédia à grande échelle. Il doit utiliser de ses connaissances afin d'élaborer une oeuvre attrayante visuellement et d'une sonorité impéccable.
+
+
+**Technique utilisée dans Kigo:**
+
+La modélisation 3D
+
+
 
 
 
