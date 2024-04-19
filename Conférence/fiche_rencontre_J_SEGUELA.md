@@ -18,4 +18,6 @@ elle détaille son expertise dans son domaine tout en présentant les projets r�
 
 **Mr. Lozano-Hemmer** est accompagné de **son équipe** pour réaliser ses nombreux projets artistiques durant sa carrière. Elle est **divisée** de façon à ce que tout le monde aille un domaine spécifique et afin qu'une **organisation effiface et productive** soit présente lors de la préparation d'une oeuvre multimédia.
 
-les quatres différentes catégories de son équipe sont: **Recherche et développement, Production, Legacy, Exhibition**.
+### les quatres différentes catégories de son équipe sont: 
+
+**Recherche et développement, Production, Legacy, Exhibition**.
