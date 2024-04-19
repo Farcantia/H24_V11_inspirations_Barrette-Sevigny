@@ -19,17 +19,7 @@ elle détaille son expertise dans son domaine tout en présentant les projets r�
 
 ## L'ÉQUIPE DE RAFAEL LOZANO-HEMMER
 
-**Mr. Lozano-Hemmer** est accompagné de **son équipe** pour réaliser ses nombreux projets artistiques durant sa carrière. Elle est **divisée** de façon à ce que tout le monde aille un **domaine spécifique** et afin qu'une **organisation effiface et productive** soit présente lors de la préparation d'une œuvre multimédia.
-
-### La répartition des tâches dans l'équipe: 
-
-**1.** Recherche et développement (R&D)
-
-**2.** Production 
-
-**3.** Legacy 
-
-**4.** Exhibition
+**Mr. Lozano-Hemmer** est accompagné de **son équipe de gestion** pour réaliser ses nombreux projets artistiques durant sa carrière. Elle est **divisée** de façon à ce que tout le monde aille un **domaine spécifique** et afin qu'une **organisation effiface et productive** soit présente lors de la préparation d'une œuvre multimédia. La répartition des tâches dans l'équipe est la suivante: Recherche et développement (R&D), Production, Legacy et Exhibition.
 
 ## PROJET RÉALISÉ PAR *ANTIMODULAR*
 
@@ -48,13 +38,7 @@ elle détaille son expertise dans son domaine tout en présentant les projets r�
 **faits sur l'artiste:**
 
 Il est née le 17 novembre 1967 à Mexico au Mexique. (56ans)
-
-**Études:**
-
 Il a réalisé un Baccalauréat en chimie physique de l'Université de Victoria en Colombie-Britannique.
-
-**son travail:**
-
 **Mr. Lozano-Hemmer** réalise ses arts à l'aide d'un concept appelé: **architecture relationnelle**. Ce concept a pour but d'utiliser les batistes et de **transformer** leur première fonction en les rendant plus **artistiques et intéractives**.
 
 > *source:* https://fr.wikipedia.org/wiki/Rafael_Lozano-Hemmer
