@@ -28,7 +28,7 @@ Jade Séguéla exerce la profession de **registraire** qui consiste à gérer, e
 
 ## RAFAEL LOZANO-HEMMER
 
-**faits sur l'artiste:**
+**Faits sur l'artiste:**
 
 Il est née le **17 novembre 1967** à Mexico au Mexique. (56ans)
 Il a réalisé un Baccalauréat en chimie physique de l'Université de Victoria en Colombie-Britannique.
