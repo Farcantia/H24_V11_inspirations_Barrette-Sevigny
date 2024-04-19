@@ -22,10 +22,14 @@ elle détaille son expertise dans son domaine tout en présentant les projets r�
 
 ### La répartition des tâches dans l'équipe: 
 
-**1.** Recherche et développement 
+**1.** Recherche et développement (R&D)
 
 **2.** Production 
 
 **3.** Legacy 
 
 **4.** Exhibition
+
+## PROJET RÉALISÉ PAR *ANTIMODULAR*
+
+### *TRANSLATION ISLAND*
