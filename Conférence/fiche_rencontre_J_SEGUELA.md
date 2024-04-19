@@ -41,3 +41,20 @@ elle détaille son expertise dans son domaine tout en présentant les projets r�
 ![photo](media/translation_island_chemin.jpg)
 
 > *source de l'image:* https://www.timeoutabudhabi.com/culture/manar-abu-dhabi-light-installations-mangroves
+
+## RAFAEL LOZANO-HEMMER
+
+**faits sur l'artiste**
+
+Il est née le 17 novembre 1967 à Mexico au Mexique. (56ans)
+
+**Études**
+
+Il a réalisé un Baccalauréat en chimie physique de l'Université de Victoria en Colombie-Britannique.
+
+**son travail**
+
+**Mr. Lozano-Hemmer** réalise ses arts à l'aide d'un concept appelé: **architecture relationnelle**. Ce concept a pour but d'utiliser les batistes et de **transformer** leur première fonction en les rendant plus **artistiques et intéractives**.
+
+> source: https://fr.wikipedia.org/wiki/Rafael_Lozano-Hemmer
+
