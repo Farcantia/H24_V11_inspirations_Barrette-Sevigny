@@ -2,11 +2,11 @@
 
 ## PRÉSENTATION - JADE SÉGUELA
 
-###  Son métier
+###  Son métier:
 
 Elle exerce la profession de **registraire** qui consiste à gérer, exposer et documenter la collection artistique d'un créateur en art numérique. Dans son cas, elle travaille pour le **studio de *antimodular*** créer par **Rafael Lozano-Hemmer**.
 
-### Ses Études supérieurs
+### Ses Études supérieurs:
 
 Elle est graduée du **collégial** avec un **DEC en Arts et Lettres / spécialisation en multimédia**.
 
@@ -44,17 +44,21 @@ elle détaille son expertise dans son domaine tout en présentant les projets r�
 
 ## RAFAEL LOZANO-HEMMER
 
-**faits sur l'artiste**
+**faits sur l'artiste:**
 
 Il est née le 17 novembre 1967 à Mexico au Mexique. (56ans)
 
-**Études**
+**Études:**
 
 Il a réalisé un Baccalauréat en chimie physique de l'Université de Victoria en Colombie-Britannique.
 
-**son travail**
+**son travail:**
 
 **Mr. Lozano-Hemmer** réalise ses arts à l'aide d'un concept appelé: **architecture relationnelle**. Ce concept a pour but d'utiliser les batistes et de **transformer** leur première fonction en les rendant plus **artistiques et intéractives**.
 
 > source: https://fr.wikipedia.org/wiki/Rafael_Lozano-Hemmer
+
+## RESSENTI VIS-À-VIS LA PRÉSENTATION
+
+la présentation était palpitante. J'ai pu découvrir une nouvelle branche de métier dans le multimédia que je ne connaissais pas du tout et j'ai trouvé cela très agréable à découvrir. Mme. Séguéla présente bien ses sujets et m'a fait découvrir un univers de mon domaine d'étude complètement différent.
 
