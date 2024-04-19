@@ -30,7 +30,7 @@ Jade Séguéla exerce la profession de **registraire** qui consiste à gérer, e
 
 **faits sur l'artiste:**
 
-Il est née le 17 novembre 1967 à Mexico au Mexique. (56ans)
+Il est née le **17 novembre 1967** à Mexico au Mexique. (56ans)
 Il a réalisé un Baccalauréat en chimie physique de l'Université de Victoria en Colombie-Britannique.
 **Mr. Lozano-Hemmer** réalise ses arts à l'aide d'un concept appelé: **architecture relationnelle**. Ce concept a pour but d'utiliser les batistes et de **transformer** leur première fonction en les rendant plus **artistiques et intéractives**.
 
