@@ -6,7 +6,7 @@
 
 Elle exerce la profession de **registraire** qui consiste à gérer, exposer et documenter la collection artistique d'un créateur en art numérique. Dans son cas, elle travaille pour le **studio de *antimodular*** créer par **Rafael Lozano-Hemmer**.
 
-### Ses Études supérieurs:
+### Ses études supérieurs:
 
 Elle est graduée du **collégial** avec un **DEC en Arts et Lettres / spécialisation en multimédia**.
 
@@ -56,7 +56,7 @@ Il a réalisé un Baccalauréat en chimie physique de l'Université de Victoria 
 
 **Mr. Lozano-Hemmer** réalise ses arts à l'aide d'un concept appelé: **architecture relationnelle**. Ce concept a pour but d'utiliser les batistes et de **transformer** leur première fonction en les rendant plus **artistiques et intéractives**.
 
-> source: https://fr.wikipedia.org/wiki/Rafael_Lozano-Hemmer
+> *source:* https://fr.wikipedia.org/wiki/Rafael_Lozano-Hemmer
 
 ## RESSENTI VIS-À-VIS LA PRÉSENTATION
 
