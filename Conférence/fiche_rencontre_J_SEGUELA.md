@@ -40,4 +40,4 @@ elle détaille son expertise dans son domaine tout en présentant les projets r�
 
 ![photo](media/translation_island_chemin.jpg)
 
-> source de l'image: https://www.timeoutabudhabi.com/culture/manar-abu-dhabi-light-installations-mangroves
+> *source de l'image: https://www.timeoutabudhabi.com/culture/manar-abu-dhabi-light-installations-mangroves*
