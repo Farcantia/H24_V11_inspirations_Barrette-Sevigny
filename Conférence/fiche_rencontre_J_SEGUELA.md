@@ -60,5 +60,5 @@ Il a réalisé un Baccalauréat en chimie physique de l'Université de Victoria 
 
 ## RESSENTI VIS-À-VIS LA PRÉSENTATION
 
-la présentation était palpitante. J'ai pu découvrir une nouvelle branche de métier dans le multimédia que je ne connaissais pas du tout et j'ai trouvé cela très agréable à découvrir. Mme. Séguéla présente bien ses sujets et m'a fait découvrir un univers de mon domaine d'étude complètement différent.
+la présentation était **palpitante**. J'ai pu découvrir une **nouvelle branche de métier** dans le **multimédia** que je ne connaissais pas du tout et j'ai trouvé cela très agréable à découvrir. **Mme. Séguéla** présentait bien ses sujets et elle m'a faite découvrir un univers de mon domaine d'étude complètement différent.
 
