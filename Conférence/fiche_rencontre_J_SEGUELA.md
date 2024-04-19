@@ -6,7 +6,7 @@ Jade Séguéla exerce la profession de **registraire** qui consiste à gérer, e
 
 ## THÈME PRÉSENTÉ
 
-La conférencière détaille son expertise dans son domaine tout en présentant les projets réalisés durant les dernières années par son studio. Elle explique les complications et les difficultés qu'elle a rencontrée dans son parcours et comment elle a su remédier à ses problèmes selon les situations qui lui fesait face. Elle nous explique aussi, la construction de l'équipe du studio *antimodular*, elle nous présente le fondateur du studio de *antimodular*, qui est **Rafael Lozano-Hemmer**, et certains de ses projets artistiques et intéractifs.
+**La conférencière** détaille son expertise dans son domaine tout en présentant les projets réalisés durant les dernières années par son studio. Elle explique les **complications et les difficultés** qu'elle a rencontrée dans son parcours et comment elle a su remédier à ses problèmes selon les situations qui lui faisait face. Elle nous explique aussi la construction de l'équipe du studio *Antimodular*, le fondateur du studio de *Antimodular*, qui est **Rafael Lozano-Hemmer**, et certains de ses projets artistiques et intéractifs.
 
 -------------------------------------
 
