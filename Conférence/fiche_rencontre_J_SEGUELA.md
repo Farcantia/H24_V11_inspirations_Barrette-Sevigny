@@ -19,7 +19,7 @@ elle détaille son expertise dans son domaine tout en présentant les projets r�
 
 ## L'ÉQUIPE DE RAFAEL LOZANO-HEMMER
 
-**Mr. Lozano-Hemmer** est accompagné de **son équipe de gestion** pour réaliser ses nombreux projets artistiques durant sa carrière. Elle est **divisée** de façon à ce que tout le monde aille un **domaine spécifique** et afin qu'une **organisation effiface et productive** soit présente lors de la préparation d'une œuvre multimédia. La répartition des tâches dans l'équipe est la suivante: Recherche et développement (R&D), Production, Legacy et Exhibition.
+**Mr. Lozano-Hemmer** est accompagné de **son équipe de gestion** pour réaliser ses nombreux projets artistiques durant sa carrière. Elle est **divisée** de façon à ce que tout le monde aille un **domaine spécifique** et afin qu'une **organisation efficace et productive** soit présente lors de la préparation d'une œuvre multimédia. La répartition des tâches dans l'équipe est la suivante: Recherche et développement (R&D), Production, Legacy et Exhibition.
 
 ## PROJET RÉALISÉ PAR *ANTIMODULAR*
 
