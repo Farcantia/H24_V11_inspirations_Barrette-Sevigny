@@ -14,6 +14,7 @@ Mais également, de l'**université** avec un **diplôme *Bachelor of Fine Arts*
 ## THÈME PRÉSENTÉ
 
 elle détaille son expertise dans son domaine tout en présentant les projets réalisés durant les dernières années par son studio. Elle explique les complications et les difficultés qu'elle a rencontrée dans son parcours et comment elle a su remédier à ses problèmes selon les situations qui lui fesait face. Elle nous explique aussi, la construction de l'équipe du studio *antimodular*, elle nous présente le fondateur du studio de *antimodular*, qui est **Rafael Lozano-Hemmer**, et certains de ses projets artistiques et intéractifs.
+-------------------------------------
 
 ## L'ÉQUIPE DE RAFAEL LOZANO-HEMMER
 
@@ -56,6 +57,7 @@ Il a réalisé un Baccalauréat en chimie physique de l'Université de Victoria 
 **Mr. Lozano-Hemmer** réalise ses arts à l'aide d'un concept appelé: **architecture relationnelle**. Ce concept a pour but d'utiliser les batistes et de **transformer** leur première fonction en les rendant plus **artistiques et intéractives**.
 
 > *source:* https://fr.wikipedia.org/wiki/Rafael_Lozano-Hemmer
+-------------------------------------
 
 ## RESSENTI VIS-À-VIS LA PRÉSENTATION
 
