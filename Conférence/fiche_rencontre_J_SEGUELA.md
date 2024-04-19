@@ -18,7 +18,7 @@ elle détaille son expertise dans son domaine tout en présentant les projets r�
 
 ## L'ÉQUIPE DE RAFAEL LOZANO-HEMMER
 
-**Mr. Lozano-Hemmer** est accompagné de **son équipe** pour réaliser ses nombreux projets artistiques durant sa carrière. Elle est **divisée** de façon à ce que tout le monde aille un **domaine spécifique** et afin qu'une **organisation effiface et productive** soit présente lors de la préparation d'une oeuvre multimédia.
+**Mr. Lozano-Hemmer** est accompagné de **son équipe** pour réaliser ses nombreux projets artistiques durant sa carrière. Elle est **divisée** de façon à ce que tout le monde aille un **domaine spécifique** et afin qu'une **organisation effiface et productive** soit présente lors de la préparation d'une œuvre multimédia.
 
 ### La répartition des tâches dans l'équipe: 
 
@@ -33,3 +33,7 @@ elle détaille son expertise dans son domaine tout en présentant les projets r�
 ## PROJET RÉALISÉ PAR *ANTIMODULAR*
 
 ### *TRANSLATION ISLAND*
+
+**Description:**
+
+Translation Island" se compose de dix œuvres d'art audiovisuelles, dont six en première mondiale, qui change complètement l'île de Lulu, une île déserte située juste en face du centre-ville d'Abu Dhabi. Les visiteurs sont invités à interagir avec les œuvres d'art en parcourant un chemin éclairé de deux kilomètres de long.
