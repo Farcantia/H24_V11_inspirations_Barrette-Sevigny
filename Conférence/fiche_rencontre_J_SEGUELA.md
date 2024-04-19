@@ -37,3 +37,6 @@ elle détaille son expertise dans son domaine tout en présentant les projets r�
 **Description:**
 
 *Translation Island* se compose de **dix œuvres d'art audiovisuelles**, dont six en première mondiale, qui change complètement l'île de Lulu, une île déserte située juste en face du centre-ville d'**Abu Dhabi**. Les visiteurs sont invités à interagir avec les œuvres d'art en parcourant un **chemin éclairé** de deux kilomètres de long.
+
+![photo](translation_island_chemin.jpg)
+^ source de l'image: https://www.timeoutabudhabi.com/culture/manar-abu-dhabi-light-installations-mangroves
