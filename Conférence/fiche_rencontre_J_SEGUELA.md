@@ -9,7 +9,6 @@ Elle exerce la profession de **registraire** qui consiste à gérer, exposer et 
 ### Ses études supérieurs:
 
 Elle est graduée du **collégial** avec un **DEC en Arts et Lettres / spécialisation en multimédia**.
-
 Mais également, de l'**université** avec un **diplôme *Bachelor of Fine Arts* et une Maîtrise en Muséologie**.
 
 ## THÈME PRÉSENTÉ
