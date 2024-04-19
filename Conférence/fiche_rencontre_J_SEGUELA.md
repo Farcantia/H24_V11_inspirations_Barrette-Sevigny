@@ -14,7 +14,7 @@ Mais également, de l'**université** avec un **diplôme *Bachelor of Fine Arts*
 
 ## THÈME PRÉSENTÉ
 
-elle détaille son expertise dans son domaine tout en présentant les projets réalisés durant les dernières années par son studio. Elle explique les complications et les difficultés qu'elle a rencontrée dans son parcours et comment elle a su remédier à ses problèmes selon les situations qui lui fesait face. Elle nous explique donc, la construction de l'équipe du studio *antimodular*, elle nous présente le fondateur du studio de *antimodular*, qui est **Rafael Lozano-Hemmer**, et certains de ses projets artistiques et intéractifs.
+elle détaille son expertise dans son domaine tout en présentant les projets réalisés durant les dernières années par son studio. Elle explique les complications et les difficultés qu'elle a rencontrée dans son parcours et comment elle a su remédier à ses problèmes selon les situations qui lui fesait face. Elle nous explique aussi, la construction de l'équipe du studio *antimodular*, elle nous présente le fondateur du studio de *antimodular*, qui est **Rafael Lozano-Hemmer**, et certains de ses projets artistiques et intéractifs.
 
 ## L'ÉQUIPE DE RAFAEL LOZANO-HEMMER
 
@@ -36,4 +36,4 @@ elle détaille son expertise dans son domaine tout en présentant les projets r�
 
 **Description:**
 
-Translation Island" se compose de dix œuvres d'art audiovisuelles, dont six en première mondiale, qui change complètement l'île de Lulu, une île déserte située juste en face du centre-ville d'Abu Dhabi. Les visiteurs sont invités à interagir avec les œuvres d'art en parcourant un chemin éclairé de deux kilomètres de long.
+*Translation Island* se compose de **dix œuvres d'art audiovisuelles**, dont six en première mondiale, qui change complètement l'île de Lulu, une île déserte située juste en face du centre-ville d'**Abu Dhabi**. Les visiteurs sont invités à interagir avec les œuvres d'art en parcourant un **chemin éclairé** de deux kilomètres de long.
