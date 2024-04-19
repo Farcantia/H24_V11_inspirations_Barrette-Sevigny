@@ -18,8 +18,11 @@ elle détaille son expertise dans son domaine tout en présentant les projets r�
 
 ## L'ÉQUIPE DE RAFAEL LOZANO-HEMMER
 
-**Mr. Lozano-Hemmer** est accompagné de **son équipe** pour réaliser ses nombreux projets artistiques durant sa carrière. Elle est **divisée** de façon à ce que tout le monde aille un domaine spécifique et afin qu'une **organisation effiface et productive** soit présente lors de la préparation d'une oeuvre multimédia.
+**Mr. Lozano-Hemmer** est accompagné de **son équipe** pour réaliser ses nombreux projets artistiques durant sa carrière. Elle est **divisée** de façon à ce que tout le monde aille un **domaine spécifique** et afin qu'une **organisation effiface et productive** soit présente lors de la préparation d'une oeuvre multimédia.
 
 ### La répartition des tâches dans l'équipe: 
 
-**Recherche et développement, Production, Legacy, Exhibition**.
+1. Recherche et développement 
+2. Production 
+3. Legacy 
+4. Exhibition
