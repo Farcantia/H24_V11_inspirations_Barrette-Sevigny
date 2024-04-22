@@ -1,4 +1,4 @@
-# MA VISITE AU COSMODÔME DE LAVAL
+# VISITE AU COSMODÔME DE LAVAL
 
 
 ![photo](media/entree_cosmodome.jpg)
