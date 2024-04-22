@@ -13,7 +13,7 @@ Les missions virtuelles sont un atout du Cosmodôme. Ce sont des attractions pou
 
 ## AUX FRONTIÈRES DU COSMOS
 
-![photo](media/jeremy_shaw_exposition.JPG)
+![photo](media/affiche_afdc.jpg)
 
 > **Source:** <https://macm.org/en/exhibitions/jeremy-shaw/>
 
