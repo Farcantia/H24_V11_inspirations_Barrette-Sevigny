@@ -15,7 +15,7 @@ Les missions virtuelles sont un atout du Cosmodôme. Ce sont des attractions pou
 
 ![photo](media/affiche_afdc.PNG)
 
-> **Source:** <https://macm.org/en/exhibitions/jeremy-shaw/>
+> **Source:** <https://macm.org/en/exhibitions/jeremy-shaw/>](https://cosmodome.org/activites-familiale/missions-virtuelles/
 
 Cette installation immersive combine son, vidéo et lumière à partir de vidéo VHS, 16mm et Hi-8 de plusieures époques, afin de donner un rendu plongeant le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases distinctes.
 
