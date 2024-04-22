@@ -27,7 +27,7 @@ Cette installation permet au visiteur de s'immerger dans un ambiance spatiale et
 
 **Type d'exposition:** 
 
-permanante
+permanente
 
 **Réalisé par:** 
 
@@ -39,11 +39,11 @@ immersive
 
 **Disposition de l'oeuvre:** 
 
-différents dispositifs sont présents dans chacunes des pièces de façon à ce que cela raconte une histoire.
+Plusieurs dispositifs sont présents dans chacunes des pièces de façon à ce que cela raconte une histoire.
 
 # COMPOSANTS ET TECHNIQUES
 
-toiles blanches pour la diffusion, des rails, des projecteurs, des haut-parleurs répartis également dans toute la pièce, des lumières, console dans les bancs pour maximiser le rendu visuel, des cables pour maintenir le matériel en place. 
+L'utilisation de bracelets codés permet de passer d'une pièce à l'autre et de s'identifier entre chaque mission. La projection de films sur de grands écrans et les tablettes tactiles font parties également de l'oeuvre.
 
 **COMMENT?**
 
@@ -55,7 +55,7 @@ Rails à des fins d'installations techniques
 
 > photo prise par Antoine Barrette Sévigny
 
-# EXPÉRIENCE VÉCUE
+# EXPÉRIENCE PERSONNELLE
 
 Une expérience profonde et émouvante que j'ai ressenti. J'ai ressenti une vraie connexion avec le moi intérieur et un profond mélange d'incompréhension et de sensation qui traversait mon corps durant les différentes phases de la présentation. Je me sentais libre et investi pleinement dans l'art qui m'était présenté.
 
