@@ -1,7 +1,7 @@
 # MA VISITE AU COSMODÔME DE LAVAL
 
 
-![photo](media/entree_cosmodome)
+![photo](media/entree_cosmodome.jpg)
 
 Façade du Cosmodôme de Laval
 
