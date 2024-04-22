@@ -1,11 +1,11 @@
 # MA VISITE AU COSMODÔME DE LAVAL
 
 
-![photo](media/jeremy_shaw_facade.JPG)
+![photo](media/entree_cosmodome)
 
-Façade de la Fonderie Darling
+Façade du Cosmodôme de Laval
 
-> photo prise par Antoine Barrette Sévigny
+> source: https://courrierlaval.com/le-cosmodome-coute-a-la-ville-15-m-par-annee/
 
 # DESCRIPTION DE L'OEUVRE
 
