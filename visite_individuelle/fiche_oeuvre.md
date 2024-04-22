@@ -13,7 +13,7 @@ Les missions virtuelles sont un atout du Cosmodôme. Ce sont des attractions pou
 
 ## AUX FRONTIÈRES DU COSMOS
 
-![photo](media/affiche_afdc.PNG)
+![photo][(media/affiche_afdc.PNG)](https://cosmodome.org/activites-familiale/missions-virtuelles/)
 
 > **Source:** <https://macm.org/en/exhibitions/jeremy-shaw/>](https://cosmodome.org/activites-familiale/missions-virtuelles/
 
