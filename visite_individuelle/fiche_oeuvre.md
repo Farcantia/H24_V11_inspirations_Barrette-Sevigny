@@ -3,7 +3,7 @@
 
 ![photo](media/entree_cosmodome.jpg)
 
-> Façade du Cosmodôme de Laval
+**Façade du Cosmodôme de Laval**
 
 > source: https://courrierlaval.com/le-cosmodome-coute-a-la-ville-15-m-par-annee/
 
