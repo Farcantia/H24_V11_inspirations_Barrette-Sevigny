@@ -17,31 +17,29 @@ Les missions virtuelles sont un atout du Cosmodôme. Ce sont des attractions pou
 
 > **Source:** https://cosmodome.org/activites-familiale/missions-virtuelles/
 
-Cette installation immersive combine son, vidéo et lumière à partir de vidéo VHS, 16mm et Hi-8 de plusieures époques, afin de donner un rendu plongeant le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases distinctes.
+**Expérience visiteur:**
 
-**Année de réalisation:** 2020 
+Cette installation permet au visiteur de s'immerger dans un ambiance spatiale et futuriste de façon époustouflante. Le son est réparti dans toute les pièces de façon à ce que le l'utilisateur puisse être investi pleinement dans l'expérience pendant sa naviguation 
 
-**Type d'exposition:** itinérante
+**Année de réalisation:** 
 
-**Réalisé par:** Jeremy Shaw
+2012
 
-**Type d'installation:** immersive
+**Type d'exposition:** 
 
-**Disposition de l'oeuvre:** 7 écrans disposés en zig-zag font face à un banc, ainsi qu'une rangée de banc installée dans le fond de la pièce.
+permanante
 
-# DESCRIPTION DE L'ARTISTE
+**Réalisé par:** 
 
-Jeremy Shaw, née en 1977, est un artiste de renommé mondial ayant fait une multitude d'expositions au cours de sa carrière. Il s'inspire de plusieurs domaines artistiques pour réaliser ses oeuvres tels que: des vidéoclips, cinéma-vérité, de l’art conceptuel, etc...
+Le cosmodôme
 
-**Lieux d'expositions individuelles:** Centre Pompidou à Paris, au MoMA PS1 à New York, au Schinkel Pavillon à Berlin, et au MOCA à Toronto.
+**Type d'installation:** 
 
-> **Source:** <https://macm.org/expositions/jeremy-shaw/>
+immersive
 
-![photo](media/jeremy_shaw_livre_artiste.JPG)
+**Disposition de l'oeuvre:** 
 
-Présentation biographique des oeuvres de l'artiste
-
-> photo prise par Antoine Barrette Sévigny
+différents dispositifs sont présents dans chacunes des pièces de façon à ce que cela raconte une histoire.
 
 # COMPOSANTS ET TECHNIQUES
 
