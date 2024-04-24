@@ -43,9 +43,6 @@ Plusieurs dispositifs intéractifs sont présents dans chacunes des pièces de f
 
 <img align="right" width="400" height="600" src="media/bracelet.jpg">
 
-> photo prise par Antoine Barrette-Sévigny
-
-
 # COMPOSANTS ET TECHNIQUES
 
 L'utilisation de bracelets codés permet de passer d'une pièce à l'autre et de s'identifier entre chaque mission. La projection de films sur de grands écrans et les tablettes tactiles font parties également de l'oeuvre.
