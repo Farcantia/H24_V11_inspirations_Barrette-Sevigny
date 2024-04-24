@@ -55,3 +55,5 @@ J'ai voyagé dans l'espace et le temps. J'ai réussi à vraiment être investi d
 # CE QUI M'AS MOINS PLU
 
 Les tablettes tactiles commence a avoir de l'âge. Ils avaient beaucoup de difficultés à répondre lors de leur intéraction.
+
+> photo prise par Antoine Barrette-Sévigny
