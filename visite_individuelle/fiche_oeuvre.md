@@ -21,23 +21,23 @@ Cette installation permet au visiteur de s'immerger dans un ambiance spatiale et
 
 **Année de réalisation:** 
 
-2012
+Elle a été réalisé en 2012.
 
 **Type d'exposition:** 
 
-permanente
+C'est une installation permanente.
 
 **Réalisé par:** 
 
-Le cosmodôme
+Elle a entièrement été créé par Le Cosmodôme.
 
 **Type d'installation:** 
 
-immersive
+C'est une installation immersive.
 
 **Disposition de l'oeuvre:** 
 
-Plusieurs dispositifs intéractifs sont présents dans chacunes des pièces de façon à ce que cela raconte une histoire.
+Plusieurs dispositifs intéractifs sont présents dans chacunes des pièces de façon à ce que cela raconte une histoire. Certaines pièces sont à titre de présentations vidéos informatives et d'autres sous forme de défis
 
 > **Source:** https://cosmodome.org/activites-familiale/missions-virtuelles/
 
