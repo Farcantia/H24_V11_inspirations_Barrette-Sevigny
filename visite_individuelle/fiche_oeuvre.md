@@ -41,12 +41,12 @@ Plusieurs dispositifs intéractifs sont présents dans chacunes des pièces de f
 
 > **Source:** https://cosmodome.org/activites-familiale/missions-virtuelles/
 
+<img align="right" width="400" height="600" src="media/bracelet.jpg">
+
 
 # COMPOSANTS ET TECHNIQUES
 
 L'utilisation de bracelets codés permet de passer d'une pièce à l'autre et de s'identifier entre chaque mission. La projection de films sur de grands écrans et les tablettes tactiles font parties également de l'oeuvre.
-
-<img align="right" width="400" height="600" src="media/bracelet.jpg">
 
 # CE QUI M'AS PLU
 
