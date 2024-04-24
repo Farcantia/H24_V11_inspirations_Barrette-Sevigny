@@ -42,10 +42,6 @@ immersive
 Plusieurs dispositifs sont présents dans chacunes des pièces de façon à ce que cela raconte une histoire.
 
 
-
-
-
-
 # COMPOSANTS ET TECHNIQUES
 
 L'utilisation de bracelets codés permet de passer d'une pièce à l'autre et de s'identifier entre chaque mission. La projection de films sur de grands écrans et les tablettes tactiles font parties également de l'oeuvre.
