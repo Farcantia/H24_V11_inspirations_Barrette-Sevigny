@@ -7,11 +7,11 @@
 
 > source: https://courrierlaval.com/le-cosmodome-coute-a-la-ville-15-m-par-annee/
 
-## MISSIONS VIRTUELLES
+# MISSIONS VIRTUELLES
 
 Les missions virtuelles sont un atout du Cosmodôme. Ce sont des attractions pour les visiteurs depuis 2012 et contabilise 3 parcours différents.
 
-# AUX FRONTIÈRES DU COSMOS
+## AUX FRONTIÈRES DU COSMOS
 
 <img align="left" width="400" height="600" src="media/affiche_afdc.PNG">
 
