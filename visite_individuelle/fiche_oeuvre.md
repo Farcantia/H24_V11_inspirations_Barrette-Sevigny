@@ -13,7 +13,7 @@ Les missions virtuelles sont un atout du Cosmodôme. Ce sont des attractions pou
 
 ## AUX FRONTIÈRES DU COSMOS
 
-<img align="left" width="400" height="700" src="media/affiche_afdc.PNG">
+<img align="left" width="425" height="700" src="media/affiche_afdc.PNG">
 
 > **Source:** https://cosmodome.org/activites-familiale/missions-virtuelles/
 
