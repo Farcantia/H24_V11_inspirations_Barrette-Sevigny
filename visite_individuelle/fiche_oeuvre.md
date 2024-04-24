@@ -43,6 +43,8 @@ Plusieurs dispositifs intéractifs sont présents dans chacunes des pièces de f
 
 <img align="right" width="400" height="600" src="media/bracelet.jpg">
 
+> photo prise par Antoine Barrette-Sévigny
+
 
 # COMPOSANTS ET TECHNIQUES
 
@@ -55,5 +57,3 @@ J'ai voyagé dans l'espace et le temps. J'ai réussi à vraiment être investi d
 # CE QUI M'AS MOINS PLU
 
 Les tablettes tactiles commence a avoir de l'âge. Ils avaient beaucoup de difficultés à répondre lors de leur intéraction.
-
-> photo prise par Antoine Barrette-Sévigny
