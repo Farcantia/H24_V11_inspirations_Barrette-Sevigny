@@ -1,13 +1,15 @@
 PLAN DE LA PRÉSENTATION
 Introduction :
 
+
+
  Objectif de votre communication
 
 Développement :
 
  Informations sur l'oeuvre et le lieu d'exposition
  
-Titre: La planète rouge
+Titre: 
 Nom de la firme: Cosmodôme
 Année de réalisation: Cosmodôme
 Nom de l'exposition: Mission virtuelle
