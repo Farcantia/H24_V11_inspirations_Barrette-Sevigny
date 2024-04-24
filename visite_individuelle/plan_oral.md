@@ -1,9 +1,7 @@
 PLAN DE LA PRÉSENTATION
 Introduction :
 
-
-
- Objectif de votre communication
+Aux frontières du Cosmos est une mission virtuelle présenté au Cosmodôme de Laval. C'est une expérience intéractive formidable qui informe les gens sur les caractéristiques des planètes du système solaire et la composition des navettes aérospatiales. La description de l'oeuvre ainsi qu'une critique personnelle sont les deux points qui seront traités dans cette présentation.
 
 Développement :
 
