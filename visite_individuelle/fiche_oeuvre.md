@@ -46,24 +46,15 @@ Plusieurs dispositifs intéractifs sont présents dans chacunes des pièces de f
 
 L'utilisation de bracelets codés permet de passer d'une pièce à l'autre et de s'identifier entre chaque mission. La projection de films sur de grands écrans et les tablettes tactiles font parties également de l'oeuvre.
 
-**COMMENT?**
-
-Tout ces dispositifs ont pu être installés, grâce au support des rails se trouvant dans le plafond de la salle.
-
 ![photo](media/jeremy_shaw_lumières.JPG)
 
-Rails à des fins d'installations techniques
 
-> photo prise par Antoine Barrette Sévigny
 
-# EXPÉRIENCE PERSONNELLE
-
-Une expérience profonde et émouvante que j'ai ressenti. J'ai ressenti une vraie connexion avec le moi intérieur et un profond mélange d'incompréhension et de sensation qui traversait mon corps durant les différentes phases de la présentation. Je me sentais libre et investi pleinement dans l'art qui m'était présenté.
 
 # CE QUI M'AS PLU
 
-L'immersion totale dans laquelle l'oeuvre m'as plongé. Cela m'a inspiré vers de futurs projets audios émouvants et des vidéos remplies d'énergie.
+J'ai voyagé dans l'espace et le temps. J'ai réussi à vraiment être investi dans l'expérience et j'ai adoré ma sortie. J'ai pu découvrir mieux en profondeur la planète de Saturne et sa composition.
 
-# CE QUI M'AS MOINS INSPIRÉ
+# CE QUI M'AS MOINS PLU
 
-Je ne souhaite pas inviter des gens à consommer toutes sortes de stupéfiants, à des fins de création artistique à cause de valeurs personnelles.
+Les tablettes tactiles commence a avoir de l'âge. Ils avaient beaucoup de difficultés à répondre lors de leur intéraction.
