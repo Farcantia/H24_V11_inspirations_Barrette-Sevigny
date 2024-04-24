@@ -15,8 +15,6 @@ Les missions virtuelles sont un atout du Cosmodôme. Ce sont des attractions pou
 
 <img align="left" width="400" height="600" src="media/affiche_afdc.PNG">
 
-> **Source:** https://cosmodome.org/activites-familiale/missions-virtuelles/
-
 **Description de la mission:**
 
 Cette installation permet au visiteur de s'immerger dans un ambiance spatiale et futuriste de façon époustouflante. Le but est de partir à la visite des planètes du système solaire tout en apprenant les fonctionnements des engins aérospatiales.
@@ -40,6 +38,8 @@ immersive
 **Disposition de l'oeuvre:** 
 
 Plusieurs dispositifs intéractifs sont présents dans chacunes des pièces de façon à ce que cela raconte une histoire.
+
+> **Source:** https://cosmodome.org/activites-familiale/missions-virtuelles/
 
 
 # COMPOSANTS ET TECHNIQUES
