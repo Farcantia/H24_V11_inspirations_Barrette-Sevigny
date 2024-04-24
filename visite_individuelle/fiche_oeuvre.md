@@ -43,14 +43,14 @@ Plusieurs dispositifs intéractifs sont présents dans chacunes des pièces de f
 
 <img align="right" width="400" height="600" src="media/bracelet.jpg">
 
-**Composantes et techniques**
+**Composantes et techniques:**
 
 L'utilisation de bracelets codés permet de passer d'une pièce à l'autre et de s'identifier entre chaque mission. La projection de films sur de grands écrans et les tablettes tactiles font parties également de l'oeuvre.
 
-**Ce qui m'as plu**
+**Ce qui m'as plu:**
 
 J'ai voyagé dans l'espace et le temps. J'ai réussi à vraiment être investi dans l'expérience et j'ai adoré ma sortie. J'ai pu découvrir mieux en profondeur la planète de Saturne et sa composition.
 
-**Ce qui m'as moins plu**
+**Ce qui m'as moins plu:**
 
 Les tablettes tactiles commence a avoir de l'âge. Ils avaient beaucoup de difficultés à répondre lors de leur intéraction.
