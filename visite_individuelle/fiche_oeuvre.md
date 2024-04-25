@@ -37,7 +37,7 @@ C'est une installation immersive.
 
 **Disposition de l'oeuvre:** 
 
-Plusieurs dispositifs intéractifs sont présents dans chacunes des pièces de façon à ce que cela raconte une histoire. Certaines pièces sont à titre de présentations vidéos informatives et d'autres sous forme de défis
+Plusieurs dispositifs intéractifs sont présents dans chacunes des pièces de façon à ce que cela raconte une histoire. Certaines pièces sont à titre de présentations vidéos informatives et d'autres sous forme d'activités intéractives.
 
 > **Source:** https://cosmodome.org/activites-familiale/missions-virtuelles/
 
