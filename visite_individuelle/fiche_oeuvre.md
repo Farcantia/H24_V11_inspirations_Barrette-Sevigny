@@ -53,4 +53,4 @@ J'ai voyagé dans l'espace et le temps. J'ai réussi à vraiment être investi d
 
 **Ce qui m'as moins plu:**
 
-Les tablettes tactiles commence a avoir de l'âge. Ils avaient beaucoup de difficultés à répondre lors de leur intéraction.
+La technologie tactile commence a avoir de l'âge. Ils avaient beaucoup de difficultés à répondre lors de leur intéraction. J'ai ressenti un manque d'épatement lors de ma visite à cause que cette technologie est constamment utilisée au quotidien.
