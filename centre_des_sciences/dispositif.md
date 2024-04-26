@@ -26,9 +26,13 @@ Les expositions Expotec. était le nom de base est a été changé en 2002.
 
 ## Dispositif personnelle:
 
+<img align="left" width="400" height="600" src="media/ensemble_dispositif.jpg">
+
 **Description:**
 
 Le dispositif que j'ai choisi ce trouve dans la sphère mécanique de l'exposition. Son but consiste à analyser le pourquoi du comment que chacuns des chemins entrepris diffère.
+
+
 
 **Composantes et techniques:**
 
