@@ -4,6 +4,8 @@
 
 > source photo: https://fr.wikipedia.org/wiki/Centre_des_sciences_de_Montr%C3%A9al
 
+Date de la visite: 05/04/2024
+
 ## Description:
 
 Le centre des sciences de Montréal est un musée scientifique qui a pour but de promouvoir la science dans toutes ses sphères. Les principales catégories présentées sont la mécanique, l'air, la lumière, l'eau, la géométrie, la matière et le code.
