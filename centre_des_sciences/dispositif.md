@@ -8,7 +8,7 @@
 
 ## Description:
 
-Le centre des sciences de Montréal est un musée scientifique qui a pour but de promouvoir la science dans toutes ses sphères. Les principales catégories présentées sont la mécanique, l'air, la lumière, l'eau, la géométrie, la matière et le code.
+Le centre des sciences de Montréal est un **musée scientifique** qui a pour but de **promouvoir la science** dans toutes ses sphères. Les principales catégories présentées sont **la mécanique, l'air, la lumière, l'eau, la géométrie, la matière et le code**.
 
 **informations supplémentaires:**
 
@@ -33,7 +33,7 @@ Les expositions Expotec. était le nom de base est a été changé en 2002.
 
 ## Description:
 
-Le dispositif que j'ai choisi ce trouve dans la sphère mécanique de l'exposition "Explore La Science En Grand". Son but consiste à analyser le pourquoi du comment que chacuns des chemins entrepris diffère.
+Le dispositif que j'ai choisi ce trouve dans la **sphère mécanique** de l'exposition "Explore La Science En Grand". Son but consiste à analyser le **pourquoi du comment** que chacuns des chemins entrepris diffère.
 
 
 
@@ -61,11 +61,11 @@ Le dispositif que j'ai choisi ce trouve dans la sphère mécanique de l'expositi
 
 **Technique et fonctionnement:**
 
-Pour que l'information soit acheminée à la lumière, chacune des roues sont composées du petit cylindre métallique permettant de transmettre un signaux électromagnétique qui permet la fermeture du circuit électrique. C'est donc de cette manière que la lumière du dispositif s'allume pour déterminer qu'elle est la première roue à être arrivée à la fin de la course.
+Pour que l'information soit acheminée à la lumière, chacune des roues sont composées du **petit cylindre métallique** permettant de transmettre un **signaux électromagnétique** qui permet la **fermeture du circuit électrique**. C'est donc de cette manière que la lumière du dispositif s'allume pour déterminer qu'elle est la première roue à être arrivée à la fin de la course.
 
 **Expérience:**
 
-Lorsque que l'on voit ce dispositif, une seule question parvient à l'esprit: Quelle roue arrivera la première en bas? La seule manière de pouvoir le savoir c'est en l'essayant. C'est comme si quelqu'un dans notre tête nous obligeait à prendre part à cette expérience sans que l'on ne le soit vraiment. On peut être intriguer, épaté et surpris par la vitesse de chacune des trajectoires et c'est ce que j'ai ressenti en tant qu'utilisateur du dispositif.
+Lorsque que l'on voit ce dispositif, une seule question parvient à l'esprit: **Quelle roue arrivera la première en bas?** La seule manière de pouvoir le savoir c'est en l'essayant. C'est comme si quelqu'un dans notre tête nous obligeait à prendre part à cette expérience sans que l'on ne le soit vraiment. On peut être **intriguer, épaté et surpris par la vitesse** de chacune des trajectoires et c'est ce que j'ai ressenti en tant qu'utilisateur du dispositif.
 
 
 
