@@ -67,6 +67,10 @@ Pour que l'information soit acheminée à la lumière, chacune des roues sont co
 
 Lorsque que l'on voit ce dispositif, une seule question parvient à l'esprit: **Quelle roue arrivera la première en bas?** La seule manière de pouvoir le savoir c'est en l'essayant. C'est comme si quelqu'un dans notre tête nous obligeait à prendre part à cette expérience sans que l'on ne le soit vraiment. On peut être **intriguer, épaté et surpris par la vitesse** de chacune des trajectoires et c'est ce que j'ai ressenti en tant qu'utilisateur du dispositif.
 
+**Ce qui m'as moins plus du dispositif:**
+
+Lors de l'utilisation du dispositif, il arrive que des fois les pièces sorte de leur chemin et roule par terre à côté. Je ne sais pas si c'est dû au vieillisement du dispositif, mais je crois que ca serait quelque chose à inspecter par les organisateurs.
+
 ## Expérience de ma visite:
 
 **Ce qui m'as plus:**
