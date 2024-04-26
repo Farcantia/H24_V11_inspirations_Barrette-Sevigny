@@ -71,7 +71,7 @@ Lorsque que l'on voit ce dispositif, une seule question parvient à l'esprit: **
 
 **Ce qui m'as plus:**
 
-Ma visite au centre des sciences a été **très agréable**. J'ai pu découvrir pleins de dispositifs tout en m'amusant avec mes amis. J'ai aimé comment chacune des catégories sont biens séparés et mise en évidence pour les visiteurs. La **simplicité à la compréhension** de tout les dispositifs laisse vraiment un ressenti d'un **endroit familial et chalheureux**.
+Ma visite au centre des sciences a été **très agréable**. J'ai pu découvrir pleins de dispositifs tout en m'amusant avec mes amis. J'ai aimé comment chacune des catégories sont biens séparéss et mise en évidence pour les visiteurs. La **simplicité à la compréhension** de tout les dispositifs laisse vraiment un ressenti d'un **endroit familial et chalheureux**.
 
 **Ce qui m'as moins plus:**
 
