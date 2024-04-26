@@ -29,8 +29,6 @@ Les expositions Expotec. était le nom de base est a été changé en 2002.
 
 <img align="left" width="400" height="500" src="media/ensemble_dispositif.jpg">
 
-> photo prise par Antoine Barrette Sévigny
-
 ## Description:
 
 Le dispositif que j'ai choisi ce trouve dans la **sphère mécanique** de l'exposition "Explore La Science En Grand". Son but consiste à analyser le **pourquoi du comment** que chacun des chemins entrepris diffère.
@@ -46,6 +44,8 @@ Le dispositif que j'ai choisi ce trouve dans la **sphère mécanique** de l'expo
 - boitier électriques (fait en métallique et situé à l'avant du dispositif)
 - module principal (fait en bois et a pour but de solidifié l'ensemble du dispositif)
 - braquette (faite en métal pour retenir les roues du dispositif et assurer un départ identique)
+
+> photo prise par Antoine Barrette Sévigny
 
   -----------------
 
