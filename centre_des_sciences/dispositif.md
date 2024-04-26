@@ -46,7 +46,7 @@ Le dispositif que j'ai choisi ce trouve dans la sphère mécanique de l'expositi
 - braquette (faite en métal pour retenir les roues du dispositif et assurer un départ identique)
 
 
-  **Images à l'appui:**
+  <p align="center"> **Images à l'appui:** </p>
 
 <div align="center">
 <img width="300" height="200" src="media/braquette_dispositif.jpg">
