@@ -69,7 +69,7 @@ Lorsque que l'on voit ce dispositif, une seule question parvient à l'esprit: **
 
 **Ce qui m'as moins plus du dispositif:**
 
-Lors de l'utilisation du dispositif, il arrive que des fois les pièces sorte de leur chemin et roule par terre à côté. Je ne sais pas si c'est dû au vieillisement du dispositif, mais je crois que ca serait quelque chose à inspecter par les organisateurs.
+Lors de l'utilisation du dispositif, il arrive que des fois les pièces sortent de leur chemin et roulent par terre à côté. Je ne sais pas si c'est dû au vieillisement du dispositif, mais je crois que ca serait quelque chose à inspecter par les organisateurs de l'exposition.
 
 ## Expérience de ma visite:
 
