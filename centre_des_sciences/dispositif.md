@@ -25,7 +25,8 @@ Le centre des sciences se trouve au Vieux-Port de Montréal.
 Les expositions Expotec. était le nom de base et a été changé en 2002.
 
 > source informations: https://fr.wikipedia.org/wiki/Centre_des_sciences_de_Montr%C3%A9al
-## Dispositif personnelle:
+
+## Dispositif personnel:
 
 <img align="left" width="475" height="500" src="media/ensemble_dispositif.jpg">
 
