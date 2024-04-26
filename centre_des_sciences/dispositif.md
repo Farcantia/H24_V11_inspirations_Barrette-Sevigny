@@ -4,7 +4,7 @@
 
 > source photo: https://fr.wikipedia.org/wiki/Centre_des_sciences_de_Montr%C3%A9al
 
-Date de la visite: 05/04/2024
+**Date de la visite:** 05/04/2024
 
 ## Description:
 
