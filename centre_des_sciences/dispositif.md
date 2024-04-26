@@ -26,7 +26,7 @@ Les expositions Expotec. était le nom de base est a été changé en 2002.
 
 ## Dispositif personnelle:
 
-<img align="left" width="400" height="600" src="media/ensemble_dispositif.jpg">
+<img align="left" width="750" height="400" src="media/ensemble_dispositif.jpg">
 
 **Description:**
 
