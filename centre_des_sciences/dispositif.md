@@ -41,7 +41,7 @@ Le dispositif que j'ai choisi ce trouve dans la **sphère mécanique** de l'expo
 
 - Roues mécaniques (faites en plastique et en métal)
 - chemins avec différentes courbures (faites en bois)
-- boitier électriques (fait en métallique et situé à l'avant du dispositif)
+- boitier électriques (fait en métal et situé à l'avant du dispositif)
 - module principal (fait en bois et a pour but de solidifié l'ensemble du dispositif)
 - braquette (faite en métal pour retenir les roues du dispositif et assurer un départ identique)
 
