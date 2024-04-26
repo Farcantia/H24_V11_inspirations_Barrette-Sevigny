@@ -1,6 +1,6 @@
 # VISITE AU CENTRE DES SCIENCES DE MONTRÉAL
 
-![photo](media/entree_centre_des_sciences)
+![photo](media/entree_centre_des_sciences.jpeg)
 
 ## Description:
 
