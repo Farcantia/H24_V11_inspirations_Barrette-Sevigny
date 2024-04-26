@@ -1,4 +1,4 @@
-# VISITE AU CENTRE DES SCIENCES DE MONTRÉAL
+# VISITE AU CENTRE DES SCIENCES DE MONTRÉAL - Explore La Science En Grand
 
 ![photo](media/entree_centre_des_sciences.jpeg)
 
