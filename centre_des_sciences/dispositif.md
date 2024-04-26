@@ -33,7 +33,7 @@ Les expositions Expotec. était le nom de base est a été changé en 2002.
 
 ## Description:
 
-Le dispositif que j'ai choisi ce trouve dans la **sphère mécanique** de l'exposition "Explore La Science En Grand". Son but consiste à analyser le **pourquoi du comment** que chacuns des chemins entrepris diffère.
+Le dispositif que j'ai choisi ce trouve dans la **sphère mécanique** de l'exposition "Explore La Science En Grand". Son but consiste à analyser le **pourquoi du comment** que chacun des chemins entrepris diffère.
 
 
 
