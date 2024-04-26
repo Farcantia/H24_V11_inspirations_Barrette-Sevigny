@@ -27,7 +27,7 @@ Les expositions Expotec. était le nom de base est a été changé en 2002.
 > source informations: https://fr.wikipedia.org/wiki/Centre_des_sciences_de_Montr%C3%A9al
 ## Dispositif personnelle:
 
-<img align="left" width="450" height="500" src="media/ensemble_dispositif.jpg">
+<img align="left" width="400" height="450" src="media/ensemble_dispositif.jpg">
 
 > photo prise par Antoine Barrette Sévigny
 
