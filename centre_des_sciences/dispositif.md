@@ -1,6 +1,6 @@
 # VISITE AU CENTRE DES SCIENCES DE MONTRÉAL - Explore La Science En Grand
 
-![photo](media/entree_centre_des_sciences.jpeg)
+!i
 
 > source photo: https://fr.wikipedia.org/wiki/Centre_des_sciences_de_Montr%C3%A9al
 
