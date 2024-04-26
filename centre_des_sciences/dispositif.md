@@ -27,6 +27,8 @@ Les expositions Expotec. était le nom de base est a été changé en 2002.
 
 <img align="left" width="500" height="500" src="media/ensemble_dispositif.jpg">
 
+> photo prise par Antoine Barrette Sévigny
+
 **Description:**
 
 Le dispositif que j'ai choisi ce trouve dans la sphère mécanique de l'exposition "Explore La Science En Grand". Son but consiste à analyser le pourquoi du comment que chacuns des chemins entrepris diffère.
@@ -49,5 +51,5 @@ Le dispositif que j'ai choisi ce trouve dans la sphère mécanique de l'expositi
 <img align="center" width="300" height="200" src="media/lumiere_dispositif.jpg">
 <img align="right" width="300" height="200" src="media/roue_mecanique.jpg">
 
-
+> photo prise par Antoine Barrette Sévigny
 
