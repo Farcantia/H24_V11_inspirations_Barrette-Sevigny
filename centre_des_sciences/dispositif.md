@@ -40,7 +40,7 @@ Le dispositif que j'ai choisi ce trouve dans la **sphère mécanique** de l'expo
 
 **Les composantes du dispositif:**
 
-- Roues mécaniques (faites en plastique et en métal)
+- roues mécaniques (faites en plastique et en métal)
 - chemins avec différentes courbures (faites en bois)
 - boitier électriques (fait en métal et situé à l'avant du dispositif)
 - module principal (fait en bois et a pour but de solidifié l'ensemble du dispositif)
