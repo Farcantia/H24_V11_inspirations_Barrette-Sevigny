@@ -23,7 +23,6 @@ Le centre des sciences se trouve au Vieux-Port de Montréal.
 Les expositions Expotec. était le nom de base est a été changé en 2002.
 
 > source informations: https://fr.wikipedia.org/wiki/Centre_des_sciences_de_Montr%C3%A9al
-
 ## Dispositif personnelle:
 
 <img align="left" width="500" height="400" src="media/ensemble_dispositif.jpg">
@@ -46,9 +45,9 @@ Le dispositif que j'ai choisi ce trouve dans la sphère mécanique de l'expositi
 
   **Images à l'appui:**
 
-<img align="left" width="200" height="200" src="media/braquette_dispositif.jpg">
-<img align="center" width="200" height="200" src="media/lumiere_dispositif.jpg">
-<img align="right" width="200" height="200" src="media/roue_mecanique.jpg">
+<img align="left" width="300" height="200" src="media/braquette_dispositif.jpg">
+<img align="center" width="300" height="200" src="media/lumiere_dispositif.jpg">
+<img align="right" width="300" height="200" src="media/roue_mecanique.jpg">
 
 
 
