@@ -37,7 +37,7 @@ Le dispositif que j'ai choisi ce trouve dans la sphère mécanique de l'expositi
 
 
 
-**Composantes et techniques:**
+## Composantes et techniques:
 
 **Les composantes du dispositif:**
 
