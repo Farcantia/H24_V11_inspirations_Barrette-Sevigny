@@ -10,7 +10,7 @@
 
 Le centre des sciences de Montréal est un **musée scientifique** qui a pour but de **promouvoir la science** dans toutes ses sphères. Les principales catégories présentées lors de l'exposition "Explore La Science En Grand" sont **la mécanique, l'air, la lumière, l'eau, la géométrie, la matière et le code**.
 
-**informations supplémentaires:**
+**Informations supplémentaires:**
 
 **Date de création:**
 
