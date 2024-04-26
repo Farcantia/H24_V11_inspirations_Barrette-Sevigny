@@ -46,9 +46,9 @@ Le dispositif que j'ai choisi ce trouve dans la sphère mécanique de l'expositi
 
   **Images à l'appui:**
 
-<img align="left" width="500" height="400" src="media/braquette_dispositif.jpg">
-<img align="center" width="500" height="400" src="media/lumiere_dispositif.jpg">
-<img align="right" width="500" height="400" src="media/roue_mecanique.jpg">
+<img align="left" width="300" height="200" src="media/braquette_dispositif.jpg">
+<img align="center" width="300" height="200" src="media/lumiere_dispositif.jpg">
+<img align="right" width="300" height="200" src="media/roue_mecanique.jpg">
 
 
 
