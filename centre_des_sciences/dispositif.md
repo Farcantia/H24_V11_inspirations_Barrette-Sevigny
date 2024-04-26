@@ -48,9 +48,11 @@ Le dispositif que j'ai choisi ce trouve dans la sphère mécanique de l'expositi
 
   **Images à l'appui:**
 
+<div>
 <img align="left" width="300" height="200" src="media/braquette_dispositif.jpg">
 <img align="center" width="300" height="200" src="media/lumiere_dispositif.jpg">
 <img align="right" width="300" height="200" src="media/roue_mecanique.jpg">
+</div>
 
 > photo prise par Antoine Barrette Sévigny
 
