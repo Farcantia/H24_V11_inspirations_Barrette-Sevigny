@@ -30,11 +30,25 @@ Les expositions Expotec. était le nom de base est a été changé en 2002.
 
 **Description:**
 
-Le dispositif que j'ai choisi ce trouve dans la sphère mécanique de l'exposition. Son but consiste à analyser le pourquoi du comment que chacuns des chemins entrepris diffère.
+Le dispositif que j'ai choisi ce trouve dans la sphère mécanique de l'exposition "Explore La Science En Grand". Son but consiste à analyser le pourquoi du comment que chacuns des chemins entrepris diffère.
 
 
 
 **Composantes et techniques:**
+
+**Les composantes du dispositif:**
+
+- Roues mécaniques (faites en plastique et en métal)
+- chemins avec différentes courbures (faites en bois)
+- boitier électriques (fait en métallique et situé à l'avant du dispositif)
+- module principal (fait en bois et a pour but de solidifié l'ensemble du dispositif)
+- braquette (faite en métal pour retenir les roues du dispositif et assurer un départ identique)
+
+  **Images à l'appui:**
+
+<img align="left" width="500" height="400" src="media/braquette_dispositif.jpg">
+<img align="center" width="500" height="400" src="media/lumiere_dispositif.jpg">
+<img align="right" width="500" height="400" src="media/roue_mecanique.jpg">
 
 
 
