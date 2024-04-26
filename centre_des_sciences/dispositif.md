@@ -45,7 +45,7 @@ Le dispositif que j'ai choisi ce trouve dans la sphère mécanique de l'expositi
 - module principal (fait en bois et a pour but de solidifié l'ensemble du dispositif)
 - braquette (faite en métal pour retenir les roues du dispositif et assurer un départ identique)
 
-=============================
+========================================================
 
   **Images à l'appui:**
 
